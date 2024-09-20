@@ -2,7 +2,7 @@
   "name": "tectonapp",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://api.tectonlife.com",
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@coreui/react": "^4.3.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
