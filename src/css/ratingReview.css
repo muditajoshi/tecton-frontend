@@ -1,0 +1,28 @@
+.btn-edit{
+  padding: 4px 4px;
+  border-radius: 4px;
+  border: 1px;
+  outline: none;
+  background-color: #FFA500;
+  color: #111 !important;
+}
+
+.btn-cancel{
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid #FFA500;
+  outline: none;
+  color: #FFA500 !important;
+  background-color: transparent;
+  margin-left: 8px;
+}
+.hoverable-icon {
+  color: red;
+  cursor: pointer;
+  font-size: 23px;
+  transition: box-shadow 0.3s ease-in-out; /* Adding transition for smooth effect */
+}
+
+.hoverable-icon:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adding a shadow on hover */
+}

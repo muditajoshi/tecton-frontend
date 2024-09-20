@@ -1,0 +1,498 @@
+ 
+.Act{
+    padding-top: 50px;
+}
+   
+    ul.menu-account {
+       
+        color: black;
+        padding-top: 36px;
+        font-weight: bolder;
+        font-size: 17px;
+        line-height: 62px;
+        padding-left: 113px;
+        list-style: none;
+        text-decoration: none;
+        letter-spacing: 3px;
+        font-family: "aktivExt";
+    }
+    /* ul.menu-account  a:hover{color:orange;} */
+  
+/* a {
+    color:white;
+    text-decoration: none;
+    
+} */
+/* a:hover{
+    color:orange;
+} */
+ /* b.amb-b:hover{
+     color:orange;
+ } */
+
+#sv-g{
+    display: block!important;
+}
+#strt{
+    display:none!important;
+}
+
+#drop-d{
+    display: none!important;
+}
+input#r1.react-datalist-input_text-box.undefined{
+    width: 50px;
+}
+
+i.fa-user-circle:before {
+    content: "\f2bd";
+    font-size: 105px;
+    padding-left: 15px;
+    color: #e4e4e4;
+}
+.upim{
+    padding-right: -30px;
+    padding-left: 20px;
+    
+    font-weight:bold;
+}
+ 
+p.ac-info{
+    
+    font-weight: 600;
+    padding-left: 17px;
+    font-size: 20px;
+    /* padding-top: 31px; */
+}
+.form-control-ship-acc {
+    display: block;
+    width: 72%;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    appearance: none;
+    margin-bottom: 8px;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.fa, .fas {
+    font-weight: 900;
+    font-size: 38px;
+    
+}
+.detail-ship-account{
+    padding-left: 18px;
+
+}
+.form-control-ship-exp-acc {
+    display: block;
+    width: 35.5%;
+    float: left;
+    margin-bottom: 12px;
+    margin-top: -7px;
+    /* margin-left: 16px;
+    margin-inline: 0px; */
+    margin-right:10px;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.acc{
+    padding: 0px;
+    height: auto;
+    width: auto;
+   
+}
+ /* .nav.col-sm-2{
+    background:black;
+    padding: 2px;
+    
+    
+} */
+#dep1{
+    display:block!important;
+}
+#dep2{
+    display:block!important;
+}
+
+
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+} 
+
+
+/* .form-control {
+    display: block;
+    width: 82%;
+    padding: 0.375rem 0.75rem;
+    font-size: .8rem;
+    font-weight: 400;
+    line-height: 1rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+} */
+
+
+.contact-form label {
+    font-weight: 300;
+    color:black;
+    font-size: 14px;
+}
+
+div.contact-fo{
+    padding-left: 12px;
+    padding-top: 105px;
+
+}
+div.contact-for {
+    padding-left: 35px;
+    margin-top: -14px;
+
+}
+
+label {
+     display: block; 
+}
+
+
+label.control-label.col-sm-2{
+    display: contents;
+    line-height: 41px;
+  
+    font-size: 16px;
+
+}
+.Datalistinput.forms-control{
+    display: block;
+    width: 70%;
+    padding: 0.375rem 0.75rem;
+    font-size: .8rem;
+    font-weight: 400;
+    line-height:1rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+h3.aci{
+    padding-left: 12px;
+    color: orange;
+    font-size: 31px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 0px;
+
+}
+
+div.drop-mnu{
+    border: 1px solid;
+    width: 43px;
+
+}
+ #last1-name{
+     display:none!important;
+ }
+ #last2-name{
+     display:block!important;
+ }
+
+ #email1-name{
+     display:block!important;
+ }
+ #email2-name{
+     display:none!important;
+ }
+
+input.btn-btn-default{
+  display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color:black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+    letter-spacing: 1px;
+    /* border-radius: 0.25rem; */
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+padding-right: 2rem!important;
+    padding-left: 2rem!important;
+   padding-top: 5px;
+    padding-bottom: 0.1rem;
+
+
+}
+
+div.contact-container{
+    margin-top: 100px;
+}
+
+@media only screen and (max-width:927px ) {
+    ul.menu-account {
+        /* letter-spacing: 3px; */
+        color: black;
+        padding-top: 28px;
+        font-weight: bolder;
+        font-size: 15px;
+        line-height: 62px;
+        padding-left: 25px;
+        list-style: none;
+        text-decoration: none;
+    }
+    .form-control-ship-exp-acc {
+        display: block;
+        width: 35%;}
+}
+
+
+
+@media only screen and (max-width:575px ) {
+
+#strt{
+    display: block!important;
+}
+#sv-g{
+    display:none!important;
+}
+
+div.contact-fo {
+    padding-left: 20px;
+   margin-top: -32px;
+    padding-top: 0px;
+}
+.acc-group {
+    padding-left: 2px;
+    margin-top: 14px;
+}
+div.join-extra{
+    font-size: 14px;
+    /* margin-left: -14px; */
+
+}
+div.contact-container {
+    margin-top: 100px;
+    margin-left: 17px;
+}
+.form-control-ship-acc {
+    display: block;
+    width: 96%;
+}
+.form-control-ship-exp-acc {
+    display: block;
+    width: 46.6%;
+}
+}
+@media only screen and (max-width:610px ) {
+.nav.col-sm-2 {
+  
+    display: none!important;
+}
+.jkQSqb input {
+    width: 50%!important;
+    margin-right: 0;
+}
+#drop-d{
+    display: block!important;
+}
+h3.aci {
+    padding-left: 15px;
+    margin-top: -75px
+}
+#dep2{
+    display:block!important;
+}
+#dep1{
+    display:none!important;
+}
+p.ac-info {
+    
+    padding-left: 15px!important;
+
+}
+div.contact-for {
+    padding-left: 19px;}
+
+
+input.btn-btn-default{
+    padding-top: 5px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding-right: 2rem!important;
+    padding-left: 2rem!important;
+   
+}
+
+ #last1-name{
+     display:block!important;
+ }
+ #last2-name{
+     display:none!important;
+ }
+
+ #email1-name{
+     display:none!important;
+ }
+ #email2-name{
+     display:block!important;
+ }
+    }
+
+
+
+    /* dropdown */
+    .dropbtn {
+        background-color:  rgb(0,0,0,0.25);
+        color: white;
+        padding: 4px;
+        font-size: 17px;
+        border: none;
+        border-radius: 11px;
+      }
+      
+      .dropdown {
+        position: relative;
+        display: inline-block;
+        /* float: right */
+      }
+      
+      .dropdown-content {
+        display: none;
+        /* position: absolute; */
+        background-color:white;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      
+      .dropdown-content a:hover {background-color: rgb(0,0,0,0.25);}
+      
+      .dropdown:hover .dropdown-content {display: block;}
+      
+      .dropdown:hover .dropbtn {background-color: rgb(0,0,0,0.25);}
+
+      .acc-first-image{
+        margin: 15px 0px;
+        width: 229px;
+        height: 38px;
+    }
+      
+    .account_placeholder ::placeholder{
+        color: #212529;
+    }
+
+
+    input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+
+/* font change */
+.billing-address-add{
+    font-size: 1rem;
+}
+.join-extra{
+    font-size: 15px;
+}
+h3.pro-duct-quick-edit-billing {
+    font-size: 25px;
+   font-family: "aktivExt";
+}
+ul.menu-drop{
+    font-family: "aktivExt";
+
+}
+h3.aci{
+    font-family: "aktivExt";
+}
+h3.subp{
+    font-family: "aktivExt";
+}
+h3.samk{
+    font-family: "aktivExt";
+}
+h3.samt{
+    font-family: "aktivExt";
+}
+h5.bil{
+    font-family: "aktivExt";
+}
+p.ac-info{
+    font-family: "aktivExt";
+ 
+}
+.billing-payment-page{
+    font-family: "aktivExt";
+
+}
+.buton{
+    font-family: "aktiv";
+}
+.mb-2{
+    font-family: "aktivExt";
+}
+.mb-3{
+    font-family: "aktivExt";
+}
+.col-lg-5 .col-sm-12{
+font-size: 15px;
+}
+.h4{
+    font-family: "aktivExt";
+}
+.form-control{
+    font-size: 0.9em!important;
+    
+}

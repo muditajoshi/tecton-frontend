@@ -1,0 +1,2185 @@
+.section2-products {
+    padding: 80px 0 0px;
+    /* font-family: "aktiv"; */
+  }
+  
+  .section2-products .header {
+    margin-bottom: 50px;
+  }
+  
+  .section2-products .header h3 {
+    font-size: 1rem;
+    color: #fe302f;
+    font-weight: 500;
+  }
+  .sectiont-products {
+    padding-top: 76px;
+  }
+  .section2-products .header h2 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    color: #444444;
+  }
+  .product-btn-read-product {
+    color: orange;
+    border-radius: 29px;
+    border-color: orange;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 4px;
+    font-size: 14px;
+    letter-spacing: 3px;
+    border: 1px solid;
+    font-family: "aktivExt";
+  }
+  
+  .section2-products .single2-product {
+    margin-bottom: 26px;
+  }
+  .pro-duct-only h4 {
+    font-weight: 600;
+    color: orange;
+    font-size: 30px;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-family: "aktivExt";
+  }
+  .ask-add {
+    padding-left: 17px;
+    padding-top: 10px;
+  }
+  .product-btn-subs-add {
+    color: orange;
+    border-radius: 29px;
+  
+    background-color: white;
+    padding-left: 98px;
+    padding-right: 98px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 15px;
+    letter-spacing: 3px;
+    border: 1px solid;
+  }
+  div.disc-tec {
+    /* font-weight: bold; */
+    padding-top: 33px;
+    font-size: 15px;
+  }
+  div.glow-m {
+    font-size: 14px;
+    padding-bottom: 37px;
+  }
+  div.product-k {
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: -5px;
+  }
+  div.product-old-p {
+    font-weight: bold;
+    font-size: large;
+  }
+  #remove-caro1 {
+    display: block !important;
+  }
+  #remove-caro2 {
+    display: none !important;
+  }
+  /* .active{
+      background-color:orange;
+  } */
+  .inactive {
+    background-color: white;
+  }
+  div.review-sec h4 {
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .carousel .control-dots .dot {
+    background: grey;
+  }
+  
+  div.star-r {
+    padding-top: 10px;
+  }
+  .carousel .control-dots {
+    margin: 22px 0;
+  }
+  
+  .section2-products .product-btn-down-cart {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: none;
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+    letter-spacing: 2px;
+  
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+  
+  .btn-single-down {
+    padding-top: 30px;
+  }
+  div.review-all {
+    /* padding-left: 122px; */
+    padding-top: 44px;
+  }
+  div.review-all-leave {
+    /* padding-left: 111px; */
+    padding-top: 80px;
+  }
+  div.mor-info-open {
+    padding-top: 42px;
+    padding-bottom: 10px;
+    padding-left: 128px;
+    padding-right: 125px;
+  }
+  /* .leave-one.col-sm-4{
+      width: 23%;
+      background-color: #8080802e;
+      height: 309px;
+      margin-left: 10px;
+  
+  } */
+  
+  /* .leave-two.col-sm-4{
+      width: 23%;
+      background-color: #8080802e;
+      height: 309px;
+      margin-left: 10px;
+  
+  }
+  
+  .leave-three.col-sm-4{
+      width: 23%;
+      background-color: #8080802e;
+      height: 309px;
+      margin-left: 10px;
+  
+  } */
+  
+  h3.product-great {
+    font-size: 19px;
+    padding-top: 5px;
+    color: orange;
+  }
+  h3.product-bgreat {
+    font-size: 15px;
+  }
+  .section2-products .single2-product .part-11 {
+    position: relative;
+    /* height: 701px; */
+    overflow: hidden;
+    /* width: 519px; */
+  }
+  .addcart div {
+    cursor: pointer;
+    /* position: absolute; */
+    left: 1em;
+    top: 1em;
+  }
+  .addcart {
+    width: 65vh;
+    height: 146vh;
+    position: fixed;
+    top: -53px;
+    right: -73px;
+    bottom: 0;
+    background-color: white;
+    backdrop-filter: blur(5px);
+  }
+  .sort-arrow-add {
+    background-color: white;
+    padding-left: 13px;
+    padding-right: 16px;
+    border: 1px solid#cdd4dc;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-inline: 6px;
+  }
+  .product-btn-default-single-add {
+    background-color: orange;
+    border: none;
+    margin-left: 3px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 7px;
+    padding-bottom: 2px;
+    letter-spacing: 3px;
+    font-size: 15px;
+    /* font-family: "aktivExt"; */
+  }
+  .product-subs {
+    width: 100%;
+  }
+  .pro-part1 {
+    padding-left: 48px;
+  }
+  .edit-sub-quantity {
+    font-size: 16px;
+  }
+  .dropdown-container-productdesc {
+    float: left;
+    padding: 3px 55px 5px 55px;
+  }
+  .white {
+    background-color: white;
+  }
+  .orange {
+    background-color: orange;
+  }
+  .section2-products .single2-product .part-11::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transition: all 0.3s;
+  }
+  .review-leave {
+    font-size: 27px;
+    font-weight: bold;
+    padding-top: 8px;
+    /* padding-left: 20px */
+  }
+  .product-btn-single {
+    color: orange;
+    border-radius: 29px;
+    border-color: orange;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 9px;
+    padding-top: -3px;
+    padding-bottom: -7px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    border: 1px solid;
+  }
+  img.pro-image {
+    width: 147px;
+    padding-bottom: 0px;
+  }
+  .product-btn-subs {
+    color: black;
+    border-radius: 29px;
+    border-color: black;
+    background-color: white;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 14px;
+    letter-spacing: 3px;
+    border: 2px solid;
+  }
+  .product-btn-default-single {
+    display: inline-block;
+    font-weight: 400;
+    width: 100%;
+    line-height: 1.5;
+    color: black;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    padding: 10.375rem -4.25rem;
+    font-size: 18px;
+  
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding-right: 6rem !important;
+    padding-left: 6rem !important;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+  }
+  
+  div#product-side {
+    background-size: cover;
+    height: 214px;
+    margin-left: 80px;
+    margin-top: 12px;
+    width: 38%;
+  }
+  .section2-products .single2-product .part-11 .new {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    color: #ffffff;
+    background-color: #fe302f;
+    padding: 2px 8px;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+  }
+  
+  .section2-products .single2-product .part-11 .new {
+    left: 0;
+    background-color: #444444;
+  }
+  
+  .section2-products .single2-product .part-11 ul {
+    position: absolute;
+    bottom: -41px;
+    left: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    opacity: 0;
+    transition: bottom 0.5s, opacity 0.5s;
+  }
+  
+  .section2-products .single2-product:hover .part-11 ul {
+    bottom: 30px;
+    opacity: 1;
+  }
+  
+  .section2-products .single2-product .part-11 ul li {
+    display: inline-block;
+    margin-right: 4px;
+  }
+  
+  .section2-products .single2-product .part-11 ul li a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ffffff;
+    color: #444444;
+    text-align: center;
+    box-shadow: 0 2px 20px rgb(50 50 50 / 10%);
+    transition: color 0.2s;
+  }
+  
+  .section2-products .single2-product .part-11 ul li a:hover {
+    color: #fe302f;
+  }
+  
+  .section2-products .single2-product .part-22 .product-title {
+    font-size: 1rem;
+  }
+  
+  .section2-products .single2-product .part-22 h4 {
+    display: inline-block;
+    font-size: 1rem;
+  }
+  
+  .section2-products .single2-product .part-22 .product-old-price {
+    position: relative;
+    padding: 0 7px;
+    margin-right: 2px;
+    opacity: 0.6;
+  }
+  
+  .section2-products .single2-product .part-22 .product-price::after {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #444444;
+    transform: translateY(-50%);
+  }
+  .windows .inline-buttons .one-third{
+    padding-bottom: 10px;
+    padding-top: 14px;
+  }
+  .inline-buttons .one-third {
+    text-align: center;
+    border: 1px solid;
+    font-family: "aktivExt";
+    font-size: 15px;
+    margin-inline: 7px;
+    color: black;
+    border: 1px solid#cdd4dc;
+    padding-left: 53px;
+    padding-right: 53px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    /* font-weight: 600; */
+    border-radius: 8px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  div.inline-buttons {
+    margin-left: -7px;
+    padding-bottom: 30px;
+    padding-top: 1px;
+  }
+  div.part-car {
+    /* position: relative; */
+    /* height: 380px; */
+    max-height: 380px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    width: 90%;
+    /* background-image: url("../images/Tecton_SingleCans_Glacier.png"); */
+  }
+  
+  @media only screen and (max-width: 1076px) {
+    .inline-buttons .one-third {
+      width: 100%;
+      margin: 20px;
+    }
+  }
+  button.sort-arrow {
+    display: block;
+    width: 32%;
+    padding: 0.375rem 0.75rem;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  
+    margin-inline: 10px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .arrow-cart {
+    display: inline-flex;
+  }
+  
+  .arrow {
+    border: solid #757575;
+  
+    border-width: 0 1px 1px 0;
+  
+    display: inline-block;
+  
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  div.mor-info-open h4 {
+    letter-spacing: 4px;
+    color: orange;
+    font-weight: 600;
+    font-size: 23px;
+  }
+  
+  .collapsible {
+    color: orange;
+    cursor: pointer;
+  
+    border: none;
+  
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: -16px;
+    background-color: white;
+    font-size: xx-large;
+    font-weight: 100;
+    padding-right: 80px;
+    float: right;
+  }
+  
+  div.full-desc {
+    color: orange;
+    cursor: pointer;
+  
+    border: none;
+  
+    outline: none;
+    font-size: 25px;
+    /* font-weight: 600; */
+    letter-spacing: 4px;
+    background-color: white;
+  }
+  
+  .contents {
+    padding: 0 18px;
+    /* display: none; */
+    overflow: hidden;
+  
+    color: black;
+    letter-spacing: normal;
+    font-size: 15px;
+  }
+  
+  div.ask-q {
+    /* margin-bottom: 33px; */
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  div.product-k-desc {
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: -5px;
+  }
+  @media only screen and (max-width: 575px) {
+    #product-side {
+      display: none;
+    }
+    div.product-k-desc {
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 0px;
+      padding-bottom: 10px;
+    }
+    .sectiont-products {
+      padding-top: 40px;
+    }
+    h3.product-bgreat {
+      font-size: 8px;
+    }
+    .product-btn-default-single-add-sub {
+      padding-top: 3px !important;
+      padding-bottom: 3px !important;
+      letter-spacing: 3px;
+      font-size: 19px !important;
+    }
+    .section2-products {
+      padding: 60px 0 0px;
+    }
+    .product-btn-default-single {
+      padding-right: 3rem !important;
+      padding-left: 3rem !important;
+    }
+    .product-subs {
+      width: 98%;
+    }
+    .pro-duct-only h4 {
+      padding-top: 80px !important;
+      font-size: 25px;
+    }
+    div.disc-tec {
+      padding-top: 10px;
+      font-size: 15px;
+  
+      padding-bottom: 18px;
+    }
+    div.mor-info-open {
+      padding-left: 16px;
+      padding-right: 12px;
+      padding-top: 33px !important;
+    }
+    div.part-car {
+      height: 80px !important;
+      max-height: 114px !important;
+    }
+    #remove-caro2 {
+      display: none !important;
+    }
+    #remove-caro1 {
+      display: block !important;
+    }
+    .product-btn-default-single-add {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      margin-top: 0px !important;
+    }
+    .sub-total-cnfm {
+      padding-left: 0px !important;
+    }
+    .review-leave-ship-pay-ord {
+      margin-left: 0px;
+    }
+    div.col-cnfm {
+      padding-left: 0px !important;
+    }
+  
+    .product-btn-subs-add {
+      padding-left: 69px;
+      padding-right: 65px;
+    }
+    .collapsible {
+      padding-right: 16px;
+      margin-top: -16px;
+    }
+    .ask-add {
+      padding-left: 0px;
+      padding-top: 10px;
+    }
+    .leave-one.col-sm-4 {
+      width: 32%;
+  
+      height: 175px;
+      margin-left: 10px;
+    }
+    .leave-two.col-sm-4 {
+      width: 32%;
+  
+      height: 175px;
+      margin-left: 10px;
+    }
+    .leave-three.col-sm-4 {
+      width: 32%;
+  
+      height: 175px;
+      margin-left: 10px;
+    }
+    .review-leave {
+      padding-left: 0px;
+    }
+    div.review-all {
+      padding-left: 11px;
+      padding-top: 26px;
+    }
+    .section2-products .single2-product .part-11 {
+      height: 480px;
+      width: 100%;
+    }
+    .pro-part1 {
+      padding-left: 16px;
+      margin-top: 86px;
+      padding-right: 10px;
+    }
+    
+    div.review-all-leave {
+      padding-left: 24px;
+      padding-top: 47px;
+    }
+    div.ask-q {
+      margin-top: -16px;
+      text-align: center;
+    }
+    div.full-desc {
+      font-size: 20px;
+    }
+  }
+  
+  #caffeine1 {
+    display: block !important;
+  }
+  #caffeine2 {
+    display: none !important;
+  }
+  .product-btn-default-single-add-sub {
+    background-color: orange;
+    border: none;
+    margin-left: 3px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    letter-spacing: 3px;
+    font-size: 17px;
+  }
+  
+  .arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  
+  .cart-button-edit {
+    padding-top: 8px;
+  }
+  .product-new-font {
+    font-size: 15px;
+  }
+  @media only screen and (max-width: 890px) {
+    .product-price-pay-cart {
+      font-size: 18px;
+      padding-top: 28px !important;
+    }
+  
+    .opt-three-pay-cart {
+      font-size: 15px;
+      padding-top: 110px !important;
+      padding-right: 7px;
+    }
+    .product-btn-default-single-add {
+      padding: 5px 2.5rem 2px 2.5rem !important;
+      letter-spacing: 1px !important;
+      margin-top: 46px;
+      font-size: 15px;
+    }
+    div.disc-tec {
+      /* font-weight: bold; */
+      padding-top: 0px;
+      font-size: 15px;
+    }
+    div.mor-info-open {
+      padding-top: 148px;
+    }
+  
+    div#product-side {
+      background-size: cover !important;
+  
+      height: 95px !important;
+  
+      margin-left: 10px !important;
+  
+      width: 76% !important;
+    }
+   
+    .product-btn-single {
+      padding-left: 10px;
+      padding-right: 9px;
+  
+      font-size: 13px;
+      letter-spacing: 1px;
+      border: 1px solid;
+    }
+    div.part-car {
+      /* position: relative; */
+      height: 225px;
+      max-height: 225px;
+    }
+    .product-btn-subs-add {
+      padding: 2px 59px !important;
+    }
+    div.single2-product .part-11 {
+      /* height: 739px; */
+      overflow: hidden !important;
+      position: relative !important;
+      width: 294px !important;
+    }
+  }
+  .packs4-description{
+font-size: 17px;
+color:#757575;
+font-style: italic;
+  }
+  div.prodcarousel .carousel.carousel-thumbs-top .carousel-indicators .tabs2 p {
+    /* font-size: 18px; */
+    border: none;
+    
+    /* display: block; */
+    border-radius: none;
+    padding: none;
+    margin-right: 0px !important;
+  }
+  
+  div.prodcarousel .tabs2.active p {
+    background-color: transparent;
+  }
+  
+  @media screen and (min-width: 1600px) and (max-width: 3000px) {
+    div.prodcarousel .carousel.carousel-thumbs-top .carousel-indicators .tabs2 p {
+      margin-right:  0px !important;
+    }
+  }
+  
+  @media (min-width:768px) and (max-width: 1023px) {
+    .product-details_page_product_flavor_quantity {
+       margin-left: 0px; 
+  }
+  .ketones_learnmore_background_Productpage_mobile {
+    width: auto;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: 50% 0px;
+    background-size: cover;
+    background-image: url("../images/newshop/Frame\ 2359.png");
+}
+  }
+  
+  @media only screen and (max-width: 821px) {
+   
+    .tabs2 p {
+      padding: 6px 13px;
+    }
+  }
+  
+  .form-check-input:checked {
+    background-color: orange;
+    border-color: orange;
+  }
+  
+  .conten {
+    padding-left: 30px;
+    font-size: 15px;
+    color: #757575;
+    
+}
+  
+  .coll-asap {
+    border: none;
+  
+    background-color: white;
+  
+    color: #757575;
+  
+    padding-left: 30px;
+  
+    text-decoration: underline;
+  }
+  
+  @media only screen and (max-width: 328px) {
+    .product-btn-default-single-add {
+      padding: 3px 1rem 2px 1rem !important;
+      letter-spacing: 3px !important;
+      font-size: 18px;
+    }
+  }
+  
+  @media only screen and (max-width: 575px) {
+    .productdesc-mobile-carousel .carousel li.thumb.selected {
+      font-size: small;
+      min-width: 160px;
+      padding: 0 auto;
+      width: 49% !important;
+      display: none !important;
+    }
+    div.prodcarousel .carousel.carousel-thumbs-top .carousel-indicators .tabs2 p {
+      /* font-size: 18px; */
+      border: none;
+      margin-left: -8px;}
+  }
+  
+  
+  /* new product details css */
+  .product_description_desktop {
+    display: block;
+  }
+  .product_description_mobile {
+    display: none;
+  }
+  
+  .product_details_layout {
+    margin-top: 90px;
+  }
+  .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 100% !important;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 0rem;
+    margin-left: 15%;
+    list-style: none;
+  }
+  .carousel .slider {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+    width: 100% !important;
+    display: flex;
+    /* justify-content: space-around; */
+  }
+  .shoplanding__container__left_heading_img_desk {
+    padding-bottom: 20px;
+    display: flex;
+  }
+  
+  .icon_text_desk {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: "aktivExt";
+
+  }
+  .shoplanding__container__left_heading_img_icon_desk{
+    padding-right: 10px;
+  }
+  .shoplanding__container__right_subscription_buynow_desk {
+    margin-left: 78px;
+  }
+  .product-details_page_product_category {
+    font-size: 20px;
+  font-family: "aktivExt";
+    text-transform: uppercase;
+  }
+  .product-details_page_product_name {
+    font-size: 80px;
+    font-family: "altgothic-alt";
+    text-transform: uppercase;
+  }
+  .product-details_page_product_ratings {
+    padding-bottom: 38px;
+    display: flex;
+  }
+  .flavor_product_description h5{
+    font-family: "aktivExt";
+  }
+  .product-details_page_product_short_desc {
+    font-size: 18px;
+    color: #757575;
+    padding-bottom: 30px;
+    line-height: 32px;
+  }
+  .product-details_page_product_flavor {
+    display: flex;
+    justify-content: flex-start;
+  }
+  select.flavor_option_dropdown {
+    border-radius: 8px;
+    /* padding: 8px 40px 8px 40px; */
+    width: 180%;
+    padding: 8px 15px 6px 15px;
+    font-size: 16px;
+    border: 1px solid #75757575;
+    color: white;
+    background-color: #b7312c;
+    text-align: center;
+  }
+  .flex-div_flavor {
+    display: flex;
+  
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+  label.form-check-label1 {
+    font-size: 17px;
+    color: #757575;
+  }
+  .product-details_page_product_price {
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "aktivExt";
+    padding-bottom: 8px;
+    padding-top: 20px;
+    
+  }
+  .product-details_page_product_flavor_quantity {
+    margin-left: 150px;
+  }
+  .shoplanding__container__right_subscription_quantity_desc {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    border-radius: 8px;
+    font-family: "aktivExt";
+    border: 1px solid #cdd4dc;
+    padding-top:0px;
+    padding-bottom: 0px;
+  }
+  .windows .new_shop_buttton_buy_add_desc{
+    padding-top: 11px;
+    padding-bottom: 7px;
+  }
+  .windows .new_shop_buttton_buy_add_desc{
+    padding-top: 13px;
+    padding-bottom: 9px;
+  }
+  .new_shop_buttton_buy_add_desc {
+    border: none;
+    width: -1%;
+    text-align: center;
+    background-color: orange;
+    padding-top: 11px;
+    font-size: 17px;
+    font-family: "aktivExt";
+    padding-bottom: 11px;
+    padding-left: 75px;
+    padding-right: 75px;
+    border-radius: 4px;
+    -webkit-font-smoothing: antialiased; /* For Safari and other WebKit browsers on Mac */
+    -moz-osx-font-smoothing: grayscale; /* For Firefox on Mac */
+  }
+  .shoplanding__container__left_heading_img_mobile {
+    display: none;
+  }
+  .shoplanding__container__left_heading_img_desktop {
+    display: block;
+    padding-bottom: 20px;
+    display: flex;
+    
+  }
+  .pro-part1_desc {
+    padding-left: 48px;
+  }
+  
+  .shoplanding__container__left_heading_img_desc {
+    padding-bottom: 20px;
+    display: flex;
+  }
+  
+  /* 3rd secton tectonlifestyle */
+  /* 3rd secton tectonlifestyle */
+
+ 
+
+  .Tecton_Lifestyle_background_newsection {
+
+    margin-top: 100px;
+
+    width: 100vw;
+
+    background-repeat: no-repeat;
+
+    background-position: 40% 0px;
+
+    background-size: cover;
+
+    background-image: url("../images/newshop/tectonlifestylenewsectionbg.png");
+
+  }
+
+  .Tecton_Lifestyle_content {
+
+    padding-top: 80px;
+
+   
+
+  }
+
+  .Tecton_Lifestyle_heading {
+
+    font-family: "altgothic";
+
+    font-size: 102px;
+
+    font-weight: 700;
+
+    line-height: 90px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+
+    color: white;
+
+    padding-left: 124px;
+
+  }
+
+  .Tecton_Lifestyle_subheading {
+
+    font-family: "aktiv";
+
+    font-size: 18px;
+
+    font-weight: 400;
+
+    line-height: 32px;
+
+    padding-left: 124px;
+
+    letter-spacing: -0.005em;
+
+    text-align: left;
+
+    padding-top: 12px;
+
+    color: white;
+
+  }
+
+ 
+
+  img.productpage_line {
+
+    width: 613.5px;
+
+    height: 43px;
+
+  }
+
+  /* fourth brainhealth section */
+
+  .brainhealth_section {
+
+    display: flex;
+
+    justify-content: left;
+
+    padding: 20px 100px 0px 124px;
+
+  }
+
+  .brainhealth_info {
+
+    overflow: hidden;
+
+    width: 800px;
+
+    height: 880px;
+
+    padding: 2px 0px 2px 0px;
+
+    gap: 48px;
+
+  }
+
+  .brainhealth_desc {
+
+    display: flex;
+
+    justify-content: left;
+
+    padding-top: 20px;
+
+  }
+
+  .brainhealth_icon {
+
+    padding-right: 18px;
+
+  }
+
+ 
+
+  img.brainhealth_icon {
+
+    width: 70px;
+
+    height: 62px;
+
+  }
+
+ 
+
+  .brainhealth_title h3 {
+
+    font-family: "aktivExt";
+
+    font-size: 25px;
+
+    font-weight: 500;
+
+    line-height: 36px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+
+    color:white;
+
+  }
+
+ 
+
+  .brainhealth_title p {
+
+    font-family: "aktiv";
+
+    font-size: 16px;
+
+    font-weight: 400;
+
+    line-height: 32px;
+
+    letter-spacing: -0.005em;
+
+    text-align: left;
+
+    color: white;
+
+  }
+  .productdescicone{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 76px;
+  }
+  /* second ketones section */
+  
+  .ketones_learnmore_background_Productpage {
+  
+      width: 100vw;
+      height: 58rem;
+      background-repeat: no-repeat;
+      background-position: 0px;
+      background-size: cover;
+      /* background-image: url(../images/newshop/Ketones1.png); */
+      background-image: url("../images/newshop/ketones.png");
+  }
+  
+  .ketones_learnmore_background_content_Productpage {
+    padding-top: 351px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: nowrap;
+    margin-left: -50px;
+  }
+  
+  .ketones_learnmore_background_heading_Productpage {
+    font-family: "altgothic";
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 96%;
+    color: black;
+    padding-bottom: 30px;
+  }
+  
+  .ketones_learnmore_background_subheading1_Productpage {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 24px;
+    color: #3e3e3e;
+    font-weight: 700;
+  }
+  
+  .ketones_learnmore_background_subheading_Productpage {
+    color: #000000b2;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 18px;
+  }
+  
+  .ketones_button_learnmore_Productpage {
+    padding-top: 5px;
+  }
+  .windows .ketones_learnmore_background_button_Productpage {
+    padding-top: 14px;
+    padding-bottom: 10px;}
+  .ketones_learnmore_background_button_Productpage {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: orange;
+    border: none;
+    color: #161616;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: "aktivExt";
+    width: 100%;
+  }
+  
+  /* Custom dropdown for flavor */
+
+ 
+
+  .dropdown_description {
+
+    position: relative;
+
+    display: inline-block;
+
+  }
+
+ 
+
+  .dropdown-button {
+
+    border: 1px solid #ccc;
+
+    cursor: pointer;
+
+    border-radius: 8px;
+
+    width: 223px;
+
+    padding: 10px 56px 6px 39px;
+
+    text-align: center;
+
+    color: white;
+
+    font-family: "aktivExt";
+
+    font-size: 17px;
+
+  }
+
+ 
+
+  .dropdown-list {
+
+    
+    background-color:none;
+
+    
+
+    display: block;
+
+    z-index: 1;
+
+    
+
+  }
+
+ 
+
+  .dropdown-list-item {
+
+    padding: 7px 0px;
+
+    cursor: pointer;
+
+    font-family: "aktivExt";
+
+    font-size: 17px;
+
+    width: 100%;
+
+    text-align: center;
+
+    color: white;
+
+    border-radius: 8px;
+
+  }
+  @media (min-width: 2200px )and (max-width: 2400px){
+  .ketones_learnmore_background_subheading {
+    color: #000000B2;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 26px;
+}}
+  @media (min-width: 1800px )and (max-width: 2300px){
+  .ketones_learnmore_background_Productpage {
+    width: 100vw;
+    height: 74rem;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+    /* background-image: url(../images/newshop/Ketones1.png); */
+    background-image: url("../images/newshop/ketones.png");
+}
+  }
+
+  @media only screen and (max-width: 1400px) {
+    .ketones_learnmore_background_Productpage {
+      width: 100vw;
+      height: 51rem;
+      background-repeat: no-repeat;
+      background-position: 0px;
+      background-size: cover;
+      /* background-image: url(../images/newshop/Ketones1.png); */
+      background-image: url("../images/newshop/ketones.png");
+  }
+  .inline-buttons .one-third {
+    
+    padding-left: 34px;
+    padding-right: 30px;
+    padding-bottom: 7px;
+    padding-top: 10px;
+  }
+  .ketones_learnmore_background_content_Productpage {
+    padding-top: 289px!important;}
+    .ketones_learnmore_background_button_Productpage {
+      font-size: 16px;
+    }
+  .shoplanding__container__right_subscription_quantity_desc {
+    
+    width: 36%;}
+    .new_shop_buttton_buy_add_desc {
+     
+      padding-bottom: 7px;
+      padding-left: 56px;
+      padding-right: 55px;
+      font-size: 12px;}
+      .shoplanding__container__left_heading_img_icon_desk img{
+        height: 113px;
+        width: 106px; 
+      }
+      .shoplanding__container__right_subscription_quantity_desc {
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+      .icon_text_desk {
+        text-align: center;
+        font-size: 13px;}
+    .dropdown-button {
+     
+      width: 110%;
+      padding: 4px 50px 6px 50px;}
+      .dropdown-list-item {
+        padding: 8px 57px 6px 39px;
+        cursor: pointer;
+        font-family: "aktivExt";
+        font-size: 18px;
+        width: 127%;}
+      .product-details_page_product_name {
+        font-size: 58px;
+        font-family: "altgothic-alt";
+        text-transform: uppercase;
+    }
+    .flavor_product_description h5 {
+      font-family: "aktivExt";
+      font-size: 16px;
+  }
+    .product-details_page_product_ratings {
+      padding-bottom: 23px;}
+      .product-details_page_product_short_desc {
+        font-size: 16px;}
+    .product-details_page_product_price {
+      font-size: 25px;
+    padding-top: 0px;}
+    .packs4-description {
+      font-size: 13px;}
+  }
+ 
+  .product_description_ipad{
+    display:none
+  }
+ .brainhealth_icon img{
+  
+    width: 109px;
+}
+  
+  .shoplanding__container__left_heading_line_mobile img {
+    width: 250px;
+  }
+  .windows .dropdown-list-item{ padding:  7px 0px 3px 0px;}
+   @media  (max-width: 1800px) and (max-width: 2000px) {
+    
+  .dropdown-button {
+  
+    cursor: pointer;
+    border-radius: 8px;
+    width: 223px;
+    padding: 10px 50px 10px 39px;
+    text-align: center;
+    color: white;
+    font-family: "aktivExt";
+    font-size: 16px!important;
+}
+.windows .dropdown-button{
+  padding: 10px 39px 6px 39px;
+}
+.carousel-indicators [data-bs-target] {
+  text-indent: -10px;
+  background-color: transparent;
+  margin: 8px -56px;}
+  } 
+
+  @media only screen and (max-width: 1500px) {
+
+    .product-details_page_product_category {
+      font-size: 15px;}
+    .ketones_learnmore_background_content_Productpage {
+      padding-top: 480px;}
+      .ketones_learnmore_background_subheading_productpage {
+        color: #000000B2;
+        padding-top: 20px;
+        padding-bottom: 30px;
+        font-size: 22px;}
+    .ketones_learnmore_background_heading_Productpage {
+
+      font-size: 80px!important;
+
+    }
+    .dropdown-button {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      color: #fff;
+      cursor: pointer;
+      font-family: aktivExt;
+      font-size: 17px;
+      padding: 10px 55px 8px 39px;
+      text-align: center;
+      width: 223px;
+  }
+    .dropdown-button {
+     width: 223px;
+    padding: 5px 40px 4px 40px;
+
+    font-size: 15px;}
+
+      .dropdown-list-item {
+
+        padding: 8px 57px 6px 39px;
+
+        cursor: pointer;
+
+        font-family: "aktivExt";
+
+        font-size: 15px;
+
+        width: 100%;}
+    .ketones_learnmore_background_subheading1_Productpage {
+
+      font-size: 22px !important;
+
+    }
+
+    .ketones_learnmore_background_subheading_Productpage {
+
+      font-size:17px !important;
+
+    }
+
+    .ketones_learnmore_background_button_Productpage {
+
+      width:95%;
+
+      padding-top: 10px;
+
+ 
+
+      padding-bottom: 10px;
+
+ 
+
+      padding-left: 0px;
+
+ 
+
+      padding-right: 0px;
+
+ 
+
+      font-size: 12px;
+
+    }
+
+    .ketones_learnmore_background_content_Productpage {
+
+      padding-top: 288px!important;
+
+  }
+}
+@media (max-width: 1024px )and (min-width:768px) {
+  .product_description_ipad{
+    display:block
+  }
+  .product-details_page_product_flavor_quantity {
+    margin-left: 0px; 
+}
+  .product-details_page_product_category {
+    font-size: 16px;
+    font-family: "aktivExt";
+    text-transform: uppercase;
+}
+  .brainhealth_title_mobile h3{
+color: #ffffff;
+  }
+ 
+.carouselNavigation {
+    margin-left: 109px!important;
+}
+  .brainhealth_title_mobile p{
+    color: #ffffff;
+      }
+.brainhealth_desc_mobile {
+    display: flex;
+    justify-content: left;
+}
+  .shoplanding__container__left_heading_img_desktop{
+    display: none;
+  }
+  .product-details_page_product_flavor_quantity {
+     margin-left: 20px; 
+}
+  .new_shop_buttton_buy_add_desc {
+    padding-bottom: 7px;
+    padding-left: 16px;
+    font-size: 13px;
+    padding-right: 13px;
+}
+
+  .shoplanding__container__left_heading_ipad{
+    display: block;
+  }
+  .shoplanding__container__left_heading_img_ipad{
+   
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+
+  }
+  .product-details_page_product_ratings {
+    padding-bottom: 8px;
+}
+.product-details_page_product_short_desc {
+  font-size: 12px;
+  line-height: 23px;
+}
+  .product-details_page_product_name {
+    font-size: 37px;}
+  .carouselNavigation {
+    width: 77%;}
+  .product_description_desktop{
+    display:none
+  }
+  .dropdown-button {
+    width: 100%;
+    padding: 6px 6px 6px 6px!important;
+}
+.inline-buttons .one-third {
+  padding-left: 22px;
+  padding-right: 19px;
+  padding-bottom: 10px;
+  padding-top: 13px;
+}
+  .product_description_mobile{
+    display:none
+  }
+  .ketones_learnmore_background_Productpage_mobile {
+    width: auto;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: 50% 0px;
+    background-size: cover;
+    background-image: url("../images/newshop/Frame\ 2359.png");
+}
+.brainhealth_section_mobile {
+  display: block;
+  padding: 50px 76px 50px 128px;
+  align-items: center;
+
+}
+.Tecton_Lifestyle_background {
+width: 100vw;
+height: 64vh;
+background-repeat: no-repeat;
+background-position: 50% 0px;
+background-size: cover;
+
+}
+.shoplandingleft_mobile {
+padding-left: 80px;
+padding-top: 110px;
+}
+.shoplanding__container__left_heading_line_mobile img {
+width: auto !important;
+}
+.ketones_learnmore_background_Productpage_subheading1{
+font-size: 30px!important;
+}
+.ketones_learnmore_background_subheading_Productpage {
+font-size: 27px !important;
+}
+.ketones_learnmore_background_Productpage_content {
+padding-top: 20px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 40px;
+}
+}
+@media only screen and (max-width: 600px) {
+  .product_description_desktop {
+    display: none;
+  }
+  .conten {
+    font-size: 14px;
+}
+  .carousel-indicators [data-bs-target] {
+    height: 85px;
+}
+  .packs4-description{
+    font-size: 15px;
+    color:#757575;
+    font-style: italic;
+      }
+      .shoplanding__container__left_heading_img_icon_desk img{
+        height:auto;
+        width:auto;
+      }
+      .carousel-item {
+        position: relative;
+        display: none;
+        float: left;
+        width: 94%;
+        margin-right: -100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        transition: transform .6s ease-in-out;
+        margin-left: 10px;
+    }
+  .product_description_mobile {
+    display: block;
+  }
+  .shoplandingleft_productcarousel {
+    padding-left: 54px!important;}
+  .Tecton_Lifestyle_background_newsection {
+    margin-top: 0px;}
+  .shoplanding__container__left_heading_img_desktop {
+    display: none;
+  }
+  .shoplanding__container__left_heading_img_mobile {
+    display: block;
+  }
+  .shoplanding__container__left_heading_img_desc {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .carousel .slider {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .product-details_page_product_name {
+    font-size: 48px;
+    font-family: "altgothic";
+    text-transform: uppercase;
+    font-weight: 700;
+}
+  .product-details_page_product_category {
+    font-size: 15px;
+    padding-bottom: 12px;
+    text-transform: uppercase;
+    padding-top: 10px;
+  }
+  .product-details_page_product_price {
+    font-size: 22px;
+    font-weight: 900;
+    padding-bottom: 0px;
+    padding-top: 30px;
+  }
+  div.inline-buttons {
+  
+     padding-bottom: 0px;
+     margin-left: 3px;
+  
+}
+  label.form-check-label1 {
+    font-size: 15px!important;
+    color: #757575;
+  }
+  .android .new_shop_buttton_buy_add_desc {
+    padding-top: 15px;
+    padding-bottom: 10px;
+  }
+  .new_shop_buttton_buy_add_desc {
+    border: none;
+    width: 100%;
+    background-color: orange;
+    padding-top: 12px;
+    font-size: 13px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    color: black!important;
+  }
+  .product-details_page_product_short_desc {
+    font-size: 16px;
+    padding-bottom: 4px;
+  }
+  
+  .brainhealth_icon_mobile img {
+     width: 72px;}
+  .shoplanding__container__right_subscription_quantity_desc {
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.android .dropdown-button {
+  
+  padding: 9px 10px 6px 10px;}
+  .dropdown-button {
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+  width:100%!important;
+    padding: 7px 10px 7px 10px;
+    text-align: center;
+    color: white!important;
+    font-size: 15px!important;
+}
+.dropdown_description {
+   position: relative; 
+  display: block; 
+}
+.android .dropdown-list-item {
+  padding: 8px 1px 4px 1px;}
+  .dropdown-list-item {
+    padding: 6px 1px 6px 1px;
+    cursor: pointer;
+  
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    font-size: 15px!important;
+  }
+  .pro-part1_desc {
+    padding-left: 10px;
+    margin-top: 139px;
+    padding-right: 10px;
+  }
+  .product-details_page_product_flavor_quantity {
+    margin-left: 0px;
+  }
+  .product-details_page_product_flavor {
+    display: block;
+    justify-content: space-between;
+  }
+  .shoplanding__container__right_subscription_buynow_desk {
+    margin-left: 0px;
+    margin-top: 19px;
+  }
+  .flex-div_flavor {
+    display: block;
+
+    justify-content: space-between;
+  }
+  select.flavor_option_dropdown {
+    border-radius: 8px;
+    /* padding: 8px 40px 8px 40px; */
+    width: 120%;
+    padding: 8px 15px 6px 15px;
+    font-size: 13px;
+  }
+  .android .inline-buttons .one-third {
+   
+    padding-top: 14px;
+   
+    padding-bottom: 9px!important;
+}
+  .inline-buttons .one-third {
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 12px;
+ color:black!important;
+  padding-bottom: 12px!important;
+  }
+  .inline-buttons .one-third {
+    width: 100%;
+    margin: 0px!important;
+    margin-right: 18px!important;
+    font-size: 14px;
+  }
+  .flavor_product_description h5 {
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+  
+}
+@media only screen and (max-width: 600px) {
+  .shoplanding__container__left_heading_img_desktop {
+    display: none;
+  }
+  .carousel-indicators [data-bs-target] {
+    text-indent: -10px;
+    background-color: transparent;
+    margin: 8px -87px 8px -71px;
+}
+.flavor_product_description{
+  padding-top: 30px;
+}
+  .shoplanding__container__left_heading_img_mobile {
+    display: block;
+  }
+
+  .product_description_ipad{
+    display:none
+  }
+  .dropdown_description {
+    
+    padding-top: 6px;
+}
+  /* section second ketones_learnmore */
+
+  .ketones_learnmore_background_Productpage_mobile {
+    width: auto;
+    height: 483px;
+    background-repeat: no-repeat;
+
+    background-position: 50% 0px;
+
+    background-size: cover;
+
+    background-image: url("../images/newshop/Frame\ 2359.png");
+  }
+
+  .ketones_learnmore_background_Productpage_content {
+    padding-top: 0px;
+
+    margin-left: 0px;
+
+    padding-bottom: 40px;
+  }
+
+  .ketones_button_learnmore_Productpage {
+    margin-left: 30px;
+
+    margin-right: 30px;
+  }
+  
+  .ketones_learnmore_background_Productpage_subheading1 {
+    padding-top: 7px;
+
+    padding-bottom: 7px;
+
+    font-family: "altgothic";
+
+    font-size: 48px;
+
+    font-weight: 600;
+
+    line-height: 36px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+
+    margin-left: 30px;
+
+    margin-right: 30px;
+  }
+
+  .ketones_learnmore_background_subheading_Productpage {
+    padding-top: 20px;
+
+    padding-bottom: 30px;
+
+    font-family: "aktiv";
+
+    font-size: 15px!important;
+
+    font-weight: 400;
+
+    line-height: 28px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+
+    margin-left: 30px;
+
+    margin-right: 30px;
+  }
+.android .ketones_learnmore_background_button_Productpage{
+  padding-top: 14px;
+color:black!important;
+    padding-bottom: 10px;
+}
+  .ketones_learnmore_background_button_Productpage {
+    font-family: "aktivExt";
+
+    width: 100%;
+
+    padding-top: 12px;
+color:black!important;
+    padding-bottom: 12px;
+
+    padding-left: 0px;
+
+    padding-right: 0px;
+
+    font-size: 10px;
+
+    font-weight: 600;
+
+    line-height: 18px;
+
+    letter-spacing: 0.1em;
+
+    text-align: center;
+  }
+
+  /* section third tectonlifestyle */
+
+  .Tecton_Lifestyle_background {
+    width: 100vw;
+
+    height: 90vh;
+
+    background-repeat: no-repeat;
+
+    background-position: 65% 0px;
+
+    background-size: cover;
+
+    background-image: url("../images/newshop/tectonlifestylebg.png");
+  }
+
+  .Tecton_Lifestyle_content {
+    padding-top: 100px;
+    margin-bottom: 33px;
+    padding-bottom: 100px;
+
+    padding-left: 0px;
+  }
+
+  .Tecton_Lifestyle_heading {
+    padding-bottom: 30px;
+
+    font-size: 48px;
+
+    line-height: 48px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+padding-left: 30px;
+    margin-left: 0px;
+
+    margin-right: 30px;
+  }
+
+  .Tecton_Lifestyle_subheading {
+    padding-top: 30px;
+
+    padding-bottom: 30px;
+
+    font-family: "aktiv";
+
+    font-size: 15px;
+
+    font-weight: 400;
+
+    line-height: 28px;
+
+    letter-spacing: 0.02em;
+
+    text-align: left;
+
+    margin-left: 0px;
+padding-left: 30px;
+    margin-right: 30px;
+  }
+
+  .Tecton_Lifestyle_button {
+    padding-top: 14px;
+
+    padding-bottom: 14px;
+
+    padding-left: 0px;
+
+    padding-right: 0px;
+
+    background-color: transparent;
+
+    border-radius: 8px;
+
+    width: 296px;
+
+    font-size: 10px;
+
+    font-weight: 700;
+
+    line-height: 18px;
+
+    letter-spacing: 0.1em;
+
+    text-align: center;
+
+    margin-left: 30px;
+
+    margin-right: 30px;
+  }
+
+  /* section four brainhealth */
+
+  .brainhealth_section_mobile {
+    display: block;
+
+    padding: 50px 30px 50px 30px;
+
+    align-items: center;
+  }
+
+  .brainhealth_info_mobile {
+    overflow: hidden;
+
+    height: auto;
+
+    padding: 2px 0px 2px 0px;
+
+    gap: 48px;
+  }
+
+  .brainhealth_desc_mobile {
+    display: flex;
+
+    justify-content: left;
+  }
+
+  .brainhealth_icon_mobile {
+    padding-right: 18px;
+  }
+
+  img.brainhealth_icon_mobile {
+    width: 65px;
+
+    height: 57px;
+  }
+
+  .brainhealth_title_mobile h3 {
+    font-family: "aktivExt";
+    color: #ffffff;
+    font-size: 20px;
+
+    font-weight: 500;
+
+    line-height: 22px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+  }
+
+  .brainhealth_title_mobile p {
+   
+    font-size: 14px;
+
+    font-weight: 400;
+
+    line-height: 22px;
+
+    letter-spacing: -0.005em;
+
+    text-align: left;
+
+    color: #ffffff;
+  }
+
+  .brainhealth_img_mobile {
+    text-align: center;
+  }
+
+  .brainhealth_img_mobile img {
+    width: 300px;
+
+    display: inline-block;
+  }
+
+  /*
+
+product carousel last section */
+
+  .shoplandingleft_mobile {
+    margin-left: 30px;
+
+    margin-right: 30px;
+  }
+
+  .shoplanding__container__left_heading {
+    font-family: "altgothic";
+
+    font-size: 56px;
+
+    line-height: 48px;
+
+    letter-spacing: 0em;
+
+    text-align: left;
+
+    padding-bottom: 10px;
+  }
+}

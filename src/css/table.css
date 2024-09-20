@@ -1,0 +1,466 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* .left_col_for_align_text{
+ text-align: left;
+} */
+
+.main_div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: -8rem;
+  padding: 10px 10px;
+}
+.main_table {
+  border: 1px solid #e6e6e6e6;
+  border-collapse: collapse;
+  text-align: center;
+  top: 20px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+
+.middle_head_style {
+  font-size: 24px !important;
+  font-weight: 800;
+}
+.toggle_mobile {
+  display: none;
+}
+.all_starting--col {
+  color: #757575;
+}
+
+.normal_top_border {
+  border-top: none;
+}
+
+.third_sec_head,
+.third_sec_text {
+  color: #757575 !important;
+}
+
+/* img.iconstablevs{
+  height: 45px;
+}
+img.iconstable{
+  height: 45px;
+}
+img.line11table{
+  height: 55px;
+}
+img.line3table{
+  height: 55px;
+} */
+
+.vs {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  text-align: center;
+  background-color: #ffa500;
+  color: white;
+  font-size: 20px;
+  right: 31%;
+  top: 50%;
+  border: 3px solid #fffaf2;
+}
+
+.progress-bar {
+  width: 70%;
+  height: 8px; /* Adjust the height as needed */
+  background-color: #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-left: 75px !important;
+}
+.progress-fill1 {
+  height: 100%;
+  transition: width 1s; /* Add a transition effect for animation */
+  background: linear-gradient(to right, #ff3366, #ff9900);
+}
+.progress-fill2 {
+  height: 100%;
+  background-color: #757575;
+  transition: width 1s; /* Add a transition effect for animation */
+}
+
+.all_middle_col_style {
+  border-left: 1px solid #ffa500;
+  border-right: 1px solid #ffa500;
+  background-color: #fffaf2;
+}
+.top_border {
+  border-top: 1px solid #ffa500;
+}
+.lower_border {
+  border-bottom: 1px solid #ffa500;
+}
+td {
+  border-bottom: 1px solid #e6e6e6e6;
+}
+
+/* Desktop Mode For Larger Screen  designing */
+@media (min-width: 1800px) and (max-width: 2200px) {
+  .main_div {
+    padding: 5rem 13rem;
+  }
+  tbody {
+    font-size: 23px;
+  }
+  .toggle_desktop {
+    display: block;
+  }
+  .toggle_mobile {
+    display: none;
+  }
+  .table_head {
+    font-size: 2.2rem !important;
+    line-height: 38px;
+    letter-spacing: 2px;
+    font-family: "aktivExt";
+    padding-top: 58px;
+  }
+  .all_starting--col,
+  .third_sec_text,
+  .middle_sec_text {
+    padding: 50px 65px;
+    font-family: "aktivExt";
+  }
+
+  .all_starting--col {
+    text-align: left;
+  }
+  .progress-bar1 {
+    margin-left: 90px !important;
+  }
+  .progress-bar1,
+  .progress-bar2 {
+    width: 70%;
+    height: 14px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .progress-bar2 {
+    margin-left: 98px !important;
+  }
+  .parent_vs {
+    position: relative;
+  }
+  .vs {
+    height: 6rem;
+    width: 6rem;
+    font-size: 10px;
+    top: 70%;
+    left: 93%;
+    position: absolute;
+    border: none;
+  }
+  .vs img {
+    width: 100%;
+    height: 100%;
+  }
+  .line3_img,
+  .line11_img {
+    height: 98px;
+  }
+  img.iconstable {
+    height: 80px;
+  }
+}
+
+@media (min-width: 1440px) and (max-width: 1800px) {
+  .main_div {
+    padding: 4rem 10rem 0rem 10rem;
+  }
+  tbody {
+    font-size: 18px;
+  }
+  .toggle_desktop {
+    display: block;
+  }
+  .toggle_mobile {
+    display: none;
+  }
+  .table_head {
+    font-size: 2rem !important;
+    line-height: 35px;
+    letter-spacing: 2px;
+    font-family: "aktivExt";
+    padding-top: 58px;
+  }
+  .all_starting--col,
+  .third_sec_text,
+  .middle_sec_text {
+    padding: 45px 60px;
+    font-family: "aktivExt";
+  }
+
+  .all_starting--col {
+    text-align: left;
+  }
+  .progress-bar1 {
+    margin-left: 62px !important;
+  }
+  .progress-bar1,
+  .progress-bar2 {
+    width: 70%;
+    height: 11px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .progress-bar2 {
+    margin-left: 73px !important;
+  }
+  .parent_vs {
+    position: relative;
+  }
+  .vs {
+    height: 4rem;
+    width: 4rem;
+    font-size: 10px;
+    top: 70%;
+    left: 93%;
+    position: absolute;
+    border: none;
+  }
+  .vs img {
+    width: 100%;
+    height: 100%;
+  }
+  .line3_img,
+  .line11_img {
+    height: 75px;
+  }
+  img.iconstable {
+    height: 60px;
+  }
+}
+
+/* Desktop Mode For Smaller Screen  designing */
+
+@media (min-width: 1024px) and (max-width: 1500px) {
+  .main_div {
+    padding: 0rem 8rem;
+  }
+  tbody {
+    font-size: 16px;
+  }
+  .toggle_desktop {
+    display: block;
+  }
+  .toggle_mobile {
+    display: none;
+  }
+  .table_head {
+    font-size: 1.5rem !important;
+    line-height: 28px;
+    letter-spacing: 2px;
+    font-family: "aktivExt";
+    padding-top: 30px;
+  }
+  .all_starting--col,
+  .third_sec_text,
+  .middle_sec_text {
+    padding: 40px 60px;
+    font-family: "aktivExt";
+  }
+
+  .all_starting--col {
+    text-align: left;
+  }
+  .progress-bar1 {
+    width: 64%;
+    height: 8px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 41px !important;
+  }
+  .progress-bar2 {
+    width: 66%;
+    height: 9px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 42px !important;
+  }
+  .parent_vs {
+    position: relative;
+  }
+  .vs {
+    height: 3rem;
+    width: 3rem;
+    font-size: 10px;
+    top: 78%;
+    left: 93%;
+    position: absolute;
+    border: none;
+  }
+  .vs img {
+    width: 100%;
+    height: 100%;
+  }
+  .line3_img,
+  .line11_img {
+    height: 55px;
+  }
+  img.iconstable {
+    height: 45px;
+  }
+}
+
+/* for iPad Mode table designing  */
+
+@media (min-width: 748px) and (max-width: 1024px) {
+  .main_div {
+    padding: 2rem 2rem;
+  }
+
+  .toggle_desktop {
+    display: block;
+  }
+  .toggle_mobile {
+    display: none;
+  }
+  .table_head {
+    font-size: 1.5rem !important;
+    line-height: 28px;
+    letter-spacing: 2px;
+    font-family: "aktivExt";
+    padding-top: 30px;
+  }
+  .all_starting--col,
+  .third_sec_text,
+  .middle_sec_text {
+    padding: 40px 20px;
+    font-family: "aktivExt";
+  }
+
+  .all_starting--col {
+    text-align: left;
+  }
+  .progress-bar1 {
+    width: 65%;
+    height: 8px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 41px !important;
+  }
+  .progress-bar2 {
+    width: 66%;
+    height: 9px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 42px !important;
+  }
+  .parent_vs {
+    position: relative;
+  }
+  .vs {
+    height: 3rem;
+    width: 3rem;
+    font-size: 10px;
+    top: 78%;
+    left: 93%;
+    position: absolute;
+    border: none;
+  }
+  .vs img {
+    width: 100%;
+    height: 100%;
+  }
+  .line3_img,
+  .line11_img {
+    height: 50px;
+  }
+
+  img.iconstable {
+    height: 40px;
+  }
+}
+
+/* For Mobile design styling */
+
+@media (max-width: 600px) {
+  tbody {
+    font-size: 11px;
+  }
+  .main_div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -4rem;
+    padding: 10px 10px;
+}
+  .toggle_desktop {
+    display: none;
+  }
+  .toggle_mobile {
+    display: block;
+  }
+  .table_head {
+    font-size: 1rem !important;
+    line-height: 20px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+  }
+  .all_starting--col,
+  .third_sec_text,
+  .middle_sec_text {
+    padding: 18px 16px;
+  }
+  .all_starting--col {
+    text-align: left;
+  }
+
+  .progress-bar1 {
+    width: 65%;
+    height: 5px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 24px !important;
+  }
+  .progress-bar2 {
+    width: 67%;
+    height: 5px;
+    background-color: #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 26px !important;
+  }
+  .parent_vs {
+    position: relative;
+  }
+  .vs {
+    height: 2.3rem;
+    width: 2.3rem;
+    font-size: 19px;
+    top: 85%;
+    left: 86%;
+    position: absolute;
+    border: none;
+  }
+  .vs img {
+    width: 100%;
+    height: 100%;
+  }
+  .line3_img,
+  .line11_img {
+    height: 35px;
+  }
+  img.iconstable {
+    height: 27px;
+  }
+}

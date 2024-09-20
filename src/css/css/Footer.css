@@ -1,0 +1,101 @@
+/* style={{backgroundColor:"wheat",width:"50%",height:"70vh",float:"left",padding:"100px"}} */
+/* style={{backgroundColor:"wheat",width:"50%",height:"70vh",float:"right",padding:"150px"}} */
+
+
+/* 
+.bgblack{
+    background-color: black;
+} */
+
+
+.col {
+    flex: 0.3 0 0%;
+}
+
+div#bg{
+    background-image: url("../images/Topo7.png");
+    background-size:contain;
+}
+
+.img2{
+    max-width:35px;
+    margin-left: 10px;
+    margin-right: 10px;
+        margin-top: 115px;
+}
+
+
+@media only screen and (max-width:575px ) {
+
+    .row #footer-one{
+       /* text-align: center;
+       padding: 0px;
+       padding-top:30px */
+       display: none;
+      } 
+
+      .footer-two{
+        text-align:center;
+        padding-top: 30px;
+      } 
+  
+      .footer-one-two{
+          padding-top:30px
+      }
+      
+      .img2 {
+        margin-left: 15px;
+        margin-top: -3px;
+        width:140px;
+    }
+
+    }
+
+        
+    #footer-one{
+      padding-top: 50px;
+    }
+   
+     .footer-two{
+       padding-top: 50px;
+     }
+
+    .footer-one-text{
+        text-align: left;
+        padding-left: 159px;
+    }
+    
+    .footer-one-one{
+        text-align: left;
+        padding-left: 159px;
+    }
+
+    .footer-one-bottom{
+        text-align: left;
+        padding-left: 159px;
+    }
+
+
+
+@media only screen and (max-width:992px){
+    .footer-one-one{
+        padding-left:0px;
+        text-align: center; 
+    }
+   
+    .footer-one-text{
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .footer-one-bottom{
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .footer-one-two{
+        text-align: center;margin-top: 30px;
+        
+    }
+}
+

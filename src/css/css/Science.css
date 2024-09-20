@@ -1,0 +1,909 @@
+
+
+ body{
+ 
+  overflow-x: hidden;
+ }  
+
+.image-space {
+    position: absolute;
+    top: 420px;
+   padding-left: 171px;
+    text-align: left;
+  }
+  #image-tel1 {
+   
+    background-image: url("../images/science.crop.png");
+    width: 100vw;
+    height: 96vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }  
+  .b-ton1{
+    display:none!important;
+  }
+.space-two {
+  margin-top: -42px;
+  
+
+}
+
+.space-two-one {
+  background-color:white;
+  color: white;
+  text-align: left;
+  padding: 34px 0px 106px 159px;
+  font-size:larger;
+  padding-left: 145px;
+
+}
+
+.space-two-two {
+  background-color:white;
+ 
+  text-align: center;
+  padding-top: 110px;
+}
+
+.space-two-button {
+  padding: 7px 27px;
+   background-color: orange;
+  color:black;
+  font-size:17px;
+  letter-spacing: 4px;
+  
+  border: none!important
+}
+
+.space-three-button {
+  padding: 7px 27px;
+  background-color: orange;
+   color:black;
+  font-size:17px;
+  letter-spacing: 4px;
+ margin-left:36px;
+ margin-top: 36px;
+ 
+ border: none!important
+}
+
+
+
+ .img-wrapp {
+
+  overflow: visible;
+  margin-bottom: 17px;
+
+
+}
+
+img.hov-zoom {
+transition: all 0.3s ease 0s;
+}
+
+img.hov-zoom:hover {
+   transform: scale(1.4);
+
+}
+
+div.IM-texts p {
+  position: relative;
+  left: -20px;
+  color: white;
+  font-weight: 600;
+  font-size: 34px;
+  top:71px;
+}
+ 
+#level2{
+  display: none;
+}
+#level1{
+  display: block;
+}
+#cane2{
+  display: none;
+}
+
+
+
+p.mit{
+  font-size: 32px;
+  /* padding-top: 29px; */
+  line-height: 55px;
+  color: black;
+}
+
+ button.tex-white{
+    background-color: orange;
+    border: none;
+    padding: 9px 17px;
+    font-size: 1rem;
+    position: relative;
+    right: 20px;
+    top: 60px;
+    
+    color:black;
+    letter-spacing: 3px;
+    padding: 7px 26px 7px;
+
+  }
+ p.cell{
+    font-size: 32px;
+    /* margin-top: -71px */
+    color: black;
+  }
+
+  @media only screen and (max-width:1497px ) {
+
+    #image-tel1 {
+   
+      background-image: url("../images/science.crop.png");
+      width: 100vw;
+      height: 96vh;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+    }  
+
+  }
+  
+
+  
+  
+  @media only screen and (max-width:1457px ) {
+        .image-space{
+   
+            position: absolute;
+             top: 328px;
+            left: -16px;
+           text-align: left;
+            font-size: 3.5vw;
+    }
+  
+  } 
+      @media only screen and (max-width:919px ) {
+    .image-space {
+        position: absolute;
+        top: 290px;
+        left: 171px;
+        text-align: left;
+      
+      }
+      /* #image-tel1 {
+   
+        background-image: url("../images/science.new.jpg");
+        width: 100vw;
+        height: 86vh;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+      }   */
+     
+      button.tex-white{
+        background-color: orange;
+        border: none;
+        padding: 7px 17px;
+        font-size: 2vw;
+        position: relative;
+        right: 20px;
+        top: 10px;
+        letter-spacing: 1px;
+        color: white;
+    
+      }
+      
+     }
+    @media only screen and (max-width:918px ) {
+        .image-space {
+            position: absolute;
+            top: 250px;
+            padding-left: 43px;
+            text-align: left;
+           
+          }
+         
+          button.tex-white{
+            background-color: orange;
+            border: none;
+            padding: 7px 17px;
+            font-size: 17px;
+            position: relative;
+            right: 20px;
+            top: 204px;
+            color: black;
+        
+          }
+          div.IM-texts p {
+            position: relative;
+            left: -20px;
+            top: 150px;
+            color: white;
+            font-weight: 600;
+            font-size: 34px;
+        }
+    
+         }
+         @media only screen and (max-width:918px ) {
+            .image-space {
+                position: absolute;
+                top: 200px;
+                left: 80px;
+                text-align: left;
+                font-size: 2vw;
+              }
+             
+             }
+             @media only screen and (max-width:600px ) {
+                .image-space {
+                    position: absolute;
+                    top: 140px;
+                    left: 60px;
+                    text-align: left;
+                    
+                  }
+                  p.cell {
+                    font-size: 39px;
+                }
+                  #image-tel1 {
+                    height: 76vh!important;
+                    background-position: 68%;
+
+                  }
+                 
+   
+                    button.tex-white{
+                      background-color: orange;
+                      border:none;
+                      padding: 7px 17px;
+                      font-size: 13px;
+                      position: relative;
+                      right: 58px;
+                      top: 227px;
+                  
+
+                  
+                        
+                          }
+                          div.IM-texts p {
+                            position: relative;
+                            left: -57px;
+                            top: 221px;
+                            color: white;
+                            font-weight: 600;
+                            font-size: 20px;
+                        
+
+
+                        
+                        }
+                     
+            
+                 }
+                 @media only screen and (max-width:448px ) {
+                    .image-space {
+                        position: absolute;
+                        top: 100px;
+                        padding-left: 11px;
+                        text-align: left;
+                       
+                      }
+                      div.IM-texts p {
+                      position: relative;
+    left: -33px;
+    top: 296px;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+}
+p.cell {
+  font-size: 33px !important;
+}
+
+button.tex-white {
+  background-color:orange;
+  border: none;
+  padding: 7px 17px;
+  font-size: 12px;
+  position: relative;
+  right: 32px;
+  top: 301px;
+}
+                    
+                
+                     }
+                     @media only screen and (max-width:334px ) {
+                        .image-space {
+                            position: absolute;
+                            top: 60px;
+                            padding-left: 11px;
+                            text-align: left;
+                            
+                          }
+                          button.tex-white{
+                            background-color: orange;
+                            border: none;
+                            padding: 7px 17px;
+                            font-size: 11px;
+                            position: relative;
+                            right: 50px !important;
+                            top: 328px !important;
+                            color: white;
+                        
+                        }
+                        div.IM-texts p {
+                          position: relative;
+                          left: -52px!important;
+    top: 322px !important;
+                          color: white;
+                          font-weight: 600;
+                          font-size: 19px;
+                      
+                      
+                         
+                         }
+                        }
+
+                         @media only screen and (max-width:368px ) {
+                           p.cell{
+                             font-size: 28px!important;
+                           }
+                          }
+                          @media only screen and (max-width:340px ) {
+                            p.cell{
+                              font-size: 29px!important;
+                            }
+                           }
+       
+@media only screen and (max-width:300px ) {
+.space-two-two{
+    padding: 60px;
+    padding-top: 120px;
+    text-align: center;
+    }
+    .space-two-one{
+      padding-left: 33px!important;
+      text-align: left!important;
+      padding-bottom: 0px!important;
+    }
+    
+    .space-two-one{
+     padding: 60px;
+     padding-top: 50px;
+     text-align: center;
+     margin-top: 42px;
+    
+      }
+      @media only screen and (max-width:374px ) {
+        .space-three-button {
+          font-size:12px;
+            background-color: orange;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+          margin:33px;
+          } 
+      }
+
+      @media only screen and (max-width:300px ) {
+      .space-two-button {
+        font-size:12px;
+          background-color: orange;
+          color: white;
+          border: none;
+          padding: 6px 30px;
+        
+        } 
+        
+        }
+}
+@media only screen and (max-width:450px ) {
+  .space-two-button {
+    font-size:15px;
+      background-color: orange;
+      color: white;
+      border: none;
+      padding: 6px 30px;
+    
+    } 
+    .space-three-button {
+      font-size:15px;
+        background-color: orange;
+        color: white;
+        border: none;
+        padding: 8px 20px;
+      margin:33px;
+      } 
+    }
+    @media only screen and (max-width:1213px ) {
+      .space-two-button {
+        font-size: 18px;
+    background-color: orange;
+    color: black;
+    border: none;
+    padding: 6px 30px;
+    margin-right: 16px;
+
+        } 
+       
+        p.cell {
+          font-size: 42px;
+      }
+      .space-three-button {
+        font-size: 18px;
+        background-color: orange;
+        color: black;
+        border: none;
+        padding: 6px 23px;
+        /* margin: 23px; */
+        padding-left: 17px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+
+    }
+    @media only screen and (max-width:714px ) {
+      .space-two-button {
+        font-size: 15px;
+    background-color: orange;
+    color: black;
+    border: none;
+    padding: 10px 25px;
+
+        } 
+       
+          .space-three-button {
+            font-size: 14px;
+            background-color: orange;
+            color: black;
+            border: none;
+            padding: 10px 15px;
+            margin-left: -11px;
+        
+          } 
+
+    }
+
+    @media only screen and (max-width:768px ) {
+      .space-two-two{
+        padding: 0px;
+        padding-top: 120px;
+        text-align: center;
+        font-size: 2.5vw;
+        }
+        p.cell {
+          font-size: 33px;
+      }
+        .space-two-one{
+          padding-left:64px!important;
+          text-align: left!important;
+          padding-bottom: 0px!important;
+        }
+        .space-two-one{
+         /* padding: 60px; */
+         padding-top: 28px;
+         text-align: center;
+         margin-top: 42px;
+         padding-left: 78px;
+         font-size: 2vw;
+          }
+
+    }
+
+@media only screen and (max-width:575px ) {
+     .space-two-two{
+        padding: 10px;
+        padding-top: -20px;
+        text-align: center;
+        }
+        .space-two-one{
+          padding-left: 33px!important;
+          text-align: left!important;
+          padding-bottom: 0px!important;
+        }
+        .b-ton1{
+          display:block!important;
+        }
+
+        .space-two-button-remove{
+          background-color: orange;
+          border: none;
+          color: black;
+          letter-spacing: 3px;
+          padding: 5px 38px;
+          font-size: 17px;
+      
+        }
+        .space-three-button-remove{
+          background-color: orange;
+          border: none;
+          color: black;
+          letter-spacing: 3px;
+          padding: 5px 38px;
+          font-size: 17px;
+      
+        }
+        .img-wrapper {
+          margin-top: -100px;
+      }
+        .space-two-one{
+         padding: 60px;
+         padding-top: 47px;
+         text-align: center;
+         margin-top: 0px;
+         font-size: 3vw;
+         
+         } 
+         p.mit {
+          
+          padding-top: 0px;
+          font-size: 27px;
+    margin-top: -8px;
+      }
+         #level1{
+          display: none!important;
+        }
+        #level2{
+          display: block!important;
+        }
+        #cane1{
+          display: none;
+        }
+        #cane2{
+          display: block!important;
+        }
+         
+        }
+        
+        @media only screen and (max-width:620px ) {
+        .space-four-button {
+            font-size:2.5vw;
+              background-color: orange;
+              color: white;
+              border: none;
+              padding: 10px 19px;
+            
+            }
+            img.hov-zoom {
+              transition: all 0.3s ease 0s;
+              padding-bottom: 21px;
+          }
+            .space-two-two button {
+               
+                margin: 18px;
+                background-color: transparent;
+                /* border: 2px solid white; */
+                color: white;;
+                font-size: 3vw;
+               
+              }
+            .space-two-two button{
+                font-size: 3vw;
+            }
+        }
+        @media only screen and (max-width:772px ) {
+    div.b-ton{
+      padding-top: 0px;
+    margin-top: -33px;
+    margin-left: 20px;
+}
+    }
+
+    @media only screen and (max-width:610px ) {
+    .space-two-button {
+      font-size: 14px;
+      /* border:1px solid white; */
+
+    }
+    .space-three-button {
+      font-size: 14px;
+      /* border:1px solid white; */
+    }
+  }
+  @media only screen and (max-width:751px ) {
+  
+  .space-two-one {
+  
+    padding-top: 0px;
+   
+    padding-left: 79px;
+}
+}
+
+@media only screen and (max-width: 800px){
+p.cell {
+    font-size: 37px;
+}
+}
+        @media only screen and (max-width:1124px ) {
+        .space-two-one {
+          background-color:white;
+          color: white;
+          text-align: left;
+          padding-top: 20px;
+          font-size: larger;
+          padding-left: 79px;
+      }
+
+      #level1{
+        display:none;
+      }
+      #level2{
+        display:block;
+      }
+    }
+     
+        @media only screen and (max-width:1000px ) {
+        .space-two-two button {
+            padding: 10px 15px;
+            margin: 36px;
+            background-color: transparent;
+            /* border: 2px solid white; */
+            color: white;
+            font-size: 2vw;
+           
+          }
+         
+        }
+        @media only screen and (max-width:764px ) {
+            .space-two-two button {
+                padding: 10px 15px;
+                margin: 36px;
+                background-color: transparent;
+                /* border: 2px solid white; */
+                color: white;
+                font-size: 2.5vw;
+               
+              }
+             
+            }
+            @media only screen and (max-width:500px ) {
+                .space-two-two button {
+                    padding: 8px 14px;
+                    margin: 24px;
+                    background-color: transparent;
+                    /* border: 2px solid white; */
+                    color: white;
+                    font-size: 3.5vw;
+                   
+                   
+                  }
+                }
+               
+                @media (min-width: 250px)and (max-width:440px ) {
+                    .space-two-two{
+                       padding: 0px;
+                       padding-top: -20px;
+                       text-align: center;
+                       }
+                       .space-three-button {
+                        font-size: 14px;
+                        background-color: orange;
+                        color: black;
+                        /* border:1px solid white; */
+                        padding: 6px -17px;
+                       
+                        margin-left: 2px;
+                    
+                        } 
+                        .space-two-button {
+                          font-size: 14px;
+                          background-color: orange;
+                          color:black;
+                          /* border:1px solid white; */
+                          padding: 9px 30px;
+                         
+                      }
+                    } 
+
+
+
+ @media only screen and (max-width:557px ) {
+  
+  .space-two-two {
+    padding: 0px;
+    padding-top: 30px;
+    text-align: center;
+}
+.b-ton{
+  margin-top: -50px!important;
+}
+#sci-ence-remove{
+  display:none!important;
+
+}
+.space-two-one{
+  padding-left: 34px!important;
+  text-align: left!important;
+  padding-bottom: 0px!important;
+}
+
+
+}
+@media only screen and (max-width:530px ) {
+ 
+  
+  
+  .space-two-two {
+    padding-bottom: 20px;
+   
+    padding-top: 14px;
+    text-align: center;
+    font-size: 15px;
+}
+}
+@media only screen and (max-width:398px ) {
+ 
+  .space-two-button {
+    font-size: 13px;
+    background-color: orange;
+    color: black;
+    /* border: 2px solid white; */
+    padding-right: 12px;
+    padding-left: 14px;
+    /* font-weight: bold; */
+    letter-spacing: 2px;
+
+    
+    
+
+
+  }
+
+  p.mit{
+    font-size: 26px;
+    padding-right: 10px;
+
+  }
+
+  .space-two-one {
+    padding-left: 30px!important;
+    text-align: left!important;
+    padding-bottom: -14px!important;
+    font-size: 12px;
+    padding-top: 26px;
+    padding-right: 0px;
+    background-color: white;
+
+
+}
+  .space-three-button {
+    font-size: 13px;
+    background-color: orange;
+    color: black;
+    letter-spacing: 2px;
+
+    /* border: 2px solid white; */
+    padding: 9px 25px;
+    padding-left: 17px;
+    padding-right: 17px;
+    /* font-weight: bold; */
+    margin-left: 0px;
+}
+  .space-two-two {
+    padding: 0px;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+}
+@media only screen and (max-width:366px ) {
+ 
+  .space-two-button {
+    font-size: 14px;
+    background-color: orange;
+    color: black;
+    /* border: 2px solid white; */
+    padding-right: 9px;
+    padding-left: 13px;
+    font-weight: bold;
+    margin-right: 3px;
+}
+    
+.b-ton{
+margin-top:-38px
+
+
+  }
+  .space-three-button {
+    font-size: 14px;
+    background-color: orange;
+    color: black;
+    /* border: 2px solid white; */
+    padding: 9px 25px;
+    padding-left: 10px;
+    padding-right: 7px;
+    font-weight: bold;
+    margin-left: 1px;
+
+  }
+  .space-two-two {
+    padding: 0px;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 27px;
+}
+}
+@media only screen and (max-width:348px ) {
+ 
+  .space-two-button {
+    font-size: 10px;
+    background-color: orange;
+    color:black;
+    /* border: 2px solid white; */
+    padding-right: 9px;
+    padding-left: 13px;
+    
+    padding: 7px;
+    margin-right: 7px;
+    
+  }
+  
+.space-two-one {
+    padding-left: 27px!important;
+    text-align: left!important;
+    padding-bottom: -14px!important;
+    font-size: 12px;
+    padding-top: 26px;
+    padding-right: 0px;
+}
+    
+.b-ton{
+margin-top:-46px
+
+
+  }
+  .space-three-button {
+    font-size: 10px;
+    padding: 7px;
+    background-color: orange;
+    color:black;
+    /* border: 2px solid white; */
+    padding: 7px -2px;
+  
+    padding-left: 12px;
+    margin-left: 13px;
+    padding-right: 8px;
+    
+    
+}
+  .space-two-two {
+    padding: 0px;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+}
+
+@media only screen and (max-width: 820px){
+/* #image-tel1 {
+  background-image: url("../images/science.crop.png");
+    width: 100vw;
+    height: 63vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+} */
+}
+@media only screen and (max-width:396px ) {
+  button.tex-white {
+    background-color: orange;
+    border: none;
+    padding: 7px 17px;
+    font-size: 13px;
+    position: relative;
+    right: 50px;
+    top: 290px;
+    color: black;
+}
+div.IM-texts p {
+  position: relative;
+  left: -53px;
+  top: 277px;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+}

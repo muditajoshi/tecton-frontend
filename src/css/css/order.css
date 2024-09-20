@@ -1,0 +1,141 @@
+
+
+p.ak-info{
+    
+    font-weight: 600;
+    padding-left: 40px;
+    font-size: 19px;
+    padding-top: 5px;
+}
+
+h3.sam{
+    padding-left: 35px;
+    color: orange;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 38px;
+    padding-bottom: 14px;
+
+}
+.acc{
+    padding: 0px;
+    height: auto;
+    width: auto;
+    
+}
+ul.menu-drop a{
+    text-decoration: none;
+    color: inherit;
+}
+li.ord-vis a:visited{
+    color:orange
+}
+/* ul.menu-drop a:hover{color:orange;} */
+ul.menu-drop{
+   
+    letter-spacing: 3px;
+        color: black;
+        padding-top: 58px;
+        font-weight: bolder;
+        font-size: 20px;
+        line-height: 62px;
+        padding-left: 113px;
+        list-style: none;
+        text-decoration: none;
+    }
+div.col-3.pro{
+    float: left;
+    width: 48%;
+   font-weight: bold;
+    height: auto;
+    padding-left: 41px;
+
+}
+
+div.col-1.qt{
+    float: left;
+    width: 9%;
+    font-weight: bold;
+    height: auto; 
+    
+}
+div.col-2.sp{
+      
+    float: left;
+    width: 14%;
+    font-weight: bold;
+    height: auto; 
+  
+
+}
+div.col-2.od{
+    float: left;
+    width: 14%;
+    font-weight: bold;
+    height: auto
+    
+}
+div.col-2.dl{
+    float: left;
+    width: 12%;
+    font-weight: bold;
+    height: auto
+    
+}
+.ood.col-sm-2{
+    background:black;
+    padding: 2px;
+   
+    height:100vh
+}
+.contact-for.col-sm-10{
+    padding-left: 38px;
+
+}
+@media only screen and (max-width:927px ) {
+    ul.menu-drop {
+        /* letter-spacing: 3px; */
+        color: black;
+        padding-top: 58px;
+        font-weight: bolder;
+        font-size: 15px;
+        line-height: 62px;
+        padding-left: 25px;
+        list-style: none;
+        text-decoration: none;
+    }
+}
+
+    
+@media only screen and (max-width:610px ) {
+
+.ood.col-sm-2 {
+    display: none!important;
+}
+.contact-for.col-sm-10 {
+    padding-left: 0px;
+}
+div.col-3.pro {
+    width: 31%;
+    padding-left: 13px;
+}
+div.col-2.sp {
+   
+    width: 21%;
+    
+}
+h3.sam {
+   
+    padding-left: 10px;
+    padding-top: 6px;
+    margin-top: -56px;
+    font-size: 36px;
+    padding-bottom: 0px;
+
+}
+p.ak-info {
+    font-size: 22px;
+    padding-left: 13px;
+    padding-bottom: 15px;
+}
+}

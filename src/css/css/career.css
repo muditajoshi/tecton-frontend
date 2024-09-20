@@ -1,0 +1,409 @@
+
+
+
+
+
+.outT{
+    margin-top: 46px;
+    /* margin-right: -32px;
+    margin-left: -2px; */
+}
+  
+.well h2{
+    color: orange;
+    font-weight: bold;
+    font-size: 51px;
+    padding-left: 318px;
+    padding-top: 30px;
+    }
+
+ /* .sant p {
+color: orange;
+    font-size: 24px;
+    font-weight: bold;
+} */
+.pret-text {
+    padding-top: 53px;
+    padding-left: 0px;
+}
+
+
+  .board1 {
+   
+   
+    margin: auto;
+    width: 100%;
+    /* border: 4px solid black; */
+   
+}
+
+.in-de input[type=text] {
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+
+   
+}
+input.text-lin12{
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+
+}
+
+
+input.text-line3{
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+/* .first-part{
+    padding-left:314px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:308px;
+    font-size: 19px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-top: 16px;
+} */
+input.text-line1{
+    width:87%;}
+input.text-line2{ width:88%;}
+input.text-line3{ width:92.5%;}
+input.text-line4{ width:67%;}
+input.text-line5{width:86%;}
+input.text-line6{width:84%;}
+input.text-line7{width:86%;}
+input.text-line8{width:77%;}
+input.text-line9{width:84%;}
+input.text-line10{width:94%;}
+input.text-line11{width:92.5%;}
+input.text-lin12{width:83%;}
+input.text-line13{width:90%;}
+input.text-lines{width:100%;}
+input.text-linet{width:100%;}
+input.text-lineu{width:100%;}
+input.text-linev{width:100%;}
+input.text-linew{width:100%;}
+input.text-linet{width:74%;}
+
+
+.second-part{
+    padding-left: 314px;
+    padding-bottom: 20px;
+    padding-right: 308px;
+    line-height: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+
+ .san p {
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+div.bk p{
+    color: orange;
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 24px;
+    letter-spacing: -1px;
+/* font-family:"bicyclette" ,sans-serif; */
+font-style: normal;
+font-weight: 800;
+}
+
+div.opt{
+    text-align: center;
+}
+
+.Dgreat {
+    text-align: center;
+    position: relative;
+}
+input.down-button-bett{
+   
+  display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 20px;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+padding-right: 2rem!important;
+    padding-left: 2rem!important;
+   padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+
+
+}
+
+
+
+
+div.hp hr {
+    margin-top: 0px;
+    color: inherit;
+    background-color: transparent !important;
+    opacity: unset;
+    border-top: 10px solid orange;
+
+}
+@media only screen and (max-width:1450px ) {
+    .well h2 {
+        color: orange;
+        font-weight: bold;
+        font-size: 42px;
+        padding-left: 106px;
+    }
+
+    /* .first-part {
+        padding-left: 105px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 105px;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: bold;
+        margin-top: 16px;
+    } */
+
+    .second-part {
+        padding-left: 105px;
+        padding-bottom: 20px;
+        padding-right: 105px;
+        line-height: 24px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    }
+@media only screen and (max-width:950px ) {
+    .well h2 {
+        color: orange;
+        font-weight: bold;
+        font-size: 42px;
+        padding-left: 28px;
+    }
+
+    /* .first-part {
+        padding-left: 30px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 30px;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: bold;
+        margin-top: 16px;
+    } */
+
+    .second-part {
+        padding-left: 30px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        line-height: 24px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    }
+    @media only screen and (max-width:896px ) {
+input.text-line1{
+    width:65vw;}
+input.text-line2{ width:65vw;}
+input.text-line3{ width:70vw;}
+input.text-line4{ width:48%;}
+input.text-line5{width:62vw;}
+input.text-line6{width:60vw;}
+input.text-line7{width:63vw;}
+input.text-line8{width:52vw;}
+input.text-line9{width:62vw;}
+input.text-line10{width:73vw;}
+input.text-line11{width:72vw;}
+input.text-lin12{width:62vw;}
+input.text-line13{width:70vw;}
+input.text-lines{width:79vw;}
+input.text-linet{width:79vw;}
+input.text-lineu{width:79vw;}
+input.text-linev{width:79vw;}
+input.text-linew{width:79vw;}
+input.text-linet{width:52vw;}
+
+    }
+@media only screen and (max-width:769px ) {
+   
+    .board1 {
+       
+        margin: auto;
+        width: 100%;
+       
+    }
+}
+
+
+
+
+@media only screen and (max-width:530px ) {
+    
+        div.hp hr {
+            margin-top: 24px;
+            color: inherit;
+            background-color: transparent !important;
+            opacity: unset;
+            border-top: 10px solid orange;
+            display:none;
+        }
+         input.down-button-bett {
+          
+         
+   
+    font-size: 17px;
+   
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+   
+}
+    
+         /* .sant p {
+            color: orange;
+            font-size: 16px;
+            font-weight: 800;
+            margin-bottom: 24px;
+            margin-top: 15px;
+            letter-spacing: -1px;
+        
+        } */
+
+        img.ft-image{
+
+            width: 120px;
+        
+            padding-bottom: 22px;
+        
+        }
+        
+    } 
+
+   
+@media only screen and (max-width:500px ) {
+   
+    .board1 {
+        
+        margin: auto;
+        width: 96%;
+       
+    }
+    .outT {
+      
+            margin-top: 46px;
+            margin-left: -9px;
+            margin-right: -18px;
+        }
+        .pret-text {
+            padding-top: 30px;
+            padding-left: 20px;
+        }
+    
+        .well h2 {
+            color: orange;
+            font-weight: bold;
+            font-size: 42px;
+            padding-left: 0px;
+        }
+    .san p {
+    color: orange;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+
+    /* .first-part{
+       
+            padding-left: 24px;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            padding-right: 21px;
+            font-size: 17px;
+            margin-top: 14px;
+            font-weight: bold;
+        } */
+    
+    .second-part{
+        padding-left: 24px;
+        padding-bottom: 20px;
+        padding-right: 17px;
+        line-height: 18px;
+        font-size: 16px;
+    }
+    div.bk p {
+    color: orange;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 24px;
+    letter-spacing: -1px;
+}
+
+} 
+@media only screen and (max-width:400px ) {
+input.text-line1{
+    width:54vw;}
+input.text-line2{ width:55vw;}
+input.text-line3{ width:65vw;}
+input.text-line4{ width:70%;}
+input.text-line5{width:48vw;}
+input.text-line6{width:43vw;}
+input.text-line7{width:50vw;}
+input.text-line8{width:73vw;}
+input.text-line9{width:46vw;}
+input.text-line10{width:72vw;}
+input.text-line11{width:69vw;}
+input.text-lin12{width:46vw;}
+input.text-line13{width:63vw;}
+input.text-lines{width:81vw;}
+input.text-linet{width:81vw;}
+input.text-lineu{width:81vw;}
+input.text-linev{width:81vw;}
+input.text-linew{width:81vw;}
+input.text-linet{width:81vw;}
+
+
+.in-de input[type=text] {
+background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 10px;
+    line-height: 23px;
+}
+
+}
+

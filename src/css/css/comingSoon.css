@@ -1,0 +1,14 @@
+.typewriter{
+    position: relative;
+    font-size: 6vw;
+    color: orange;
+    text-align: center;
+    margin-top: 30vh;
+}
+.prod-image{
+    position: absolute;
+    top: 1%;
+    left: 14%;
+    height: auto;
+    width: 7%;
+}

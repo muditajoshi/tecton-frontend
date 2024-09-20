@@ -1,0 +1,436 @@
+
+
+
+
+
+
+.outl{
+    margin-top: 63px;
+    margin-bottom: 20px;
+}
+  
+  .board {
+  
+    margin: auto;
+    width: 100%;
+   
+   
+  
+}
+
+
+
+ .de-in input[type=text] {
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+input.text-linec{
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+}
+Select.text-lineh{
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+input.text-lineg{
+    background: transparent;
+    border: transparent;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: 1px solid #000000;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.firs-portion{
+    padding-left: 314px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 308px;
+    background-color: orange;
+    margin-top: 16px;
+    font-size: 19px;
+    line-height: 22px;
+    font-weight: bold;
+}
+.second-portion{
+    padding-left: 314px;
+    padding-bottom: 20px;
+    padding-right: 308px;
+   line-height: 39px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.con-tact p{
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+div.be p{
+    
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 0px;
+    letter-spacing: -1px;
+    color:orange;
+
+}
+.Bgreat{
+    text-align: center;
+    position: relative;
+}
+
+
+.pre-text{
+    padding-top: 53px;
+    padding-left: 0px;
+}
+
+.wel h1{
+color: orange;
+    font-weight: bold;
+    font-size: 42px;
+    padding-left: 312px;
+    padding-top: 20px;
+}
+
+input.down-button{
+  display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 20px;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+padding-right: 2rem!important;
+    padding-left: 2rem!important;
+   padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+
+
+}
+
+
+
+
+
+.one-button {
+    background-color: orange;
+    color: black;
+    padding: 4px 32px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 388px;
+    font-size: 18px;
+    border: none;
+    font-weight: bold;
+
+      
+  
+}
+input.text-linea{
+    width: 87%;}
+input.text-lineb{ width:87%;}
+input.text-linec{ width:92%;}
+input.text-lined{ width:67%;}
+input.text-linee{width:94%;}
+input.text-linef{width:92.5%;}
+input.text-lineg{width:87%;}
+select.text-lineh{width:90.5%;}
+
+.down-b{
+    margin-bottom: -21px;
+    
+    position: relative;
+    
+    align-items: center;
+
+}
+
+ div.ht hr {
+   
+    color: inherit;
+    background-color: transparent !important;
+    opacity: unset;
+    border-top: 10px solid orange;
+
+
+}
+@media only screen and (max-width:1450px ) {
+    .wel h1 {
+        color: orange;
+        font-weight: bold;
+        font-size: 42px;
+        padding-left: 37px;
+    }
+
+    .firs-portion {
+        padding-left: 30px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: bold;
+        margin-top: 16px;
+    }
+
+    .second-portion {
+        padding-left: 30px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        line-height: 24px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    /* input.down-button{
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+    border: none;
+    font-size: 19px;
+    padding: 6px 28px;
+
+} */
+
+    }
+    @media only screen and (max-width:904px ) {
+    input.text-linea{
+        width:66vw;}
+    input.text-lineb{ width:67vw;}
+    input.text-linec{ width:72vw;}
+    input.text-lined{ width:45vw;}
+    input.text-linee{ width:73vw;}
+    input.text-linef{ width:72vw;}
+    input.text-lineg{ width:65vw;}
+    select.text-lineh{ width:70vw;}
+    
+}
+
+
+
+@media only screen and (max-width:950px ) {
+    .wel h1 {
+        color: orange;
+        font-weight: bold;
+        font-size: 42px;
+        padding-left: 28px;
+    }
+
+    .firs-portion {
+        padding-left: 30px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: bold;
+        margin-top: 16px;
+    }
+
+    .second-portion {
+        padding-left: 30px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+        line-height: 24px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    }
+@media only screen and (max-width:620px ) {
+    
+    .board {
+       
+        margin: auto;
+        width: 100%;
+        
+    }
+   
+} 
+
+
+
+@media only screen and (max-width:500px ) {
+   
+   
+    .firs-portion{
+        padding-left: 24px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-right: -1px;
+        font-size: 17px;
+        margin-top: 14px;
+        font-weight: bold;
+    }
+ 
+  /* input.down-button {
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+    border: none;
+    font-size: 16px;
+    padding: 10px 26px;
+} */
+
+div.be p{
+    
+    color:orange;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 0px;
+    letter-spacing: -1px;
+
+
+}
+  
+    .second-portion{
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 4px;
+        line-height: 16px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+} 
+@media only screen and (max-width:500px ) {
+    
+    div.ht hr {
+       
+        color: inherit;
+        background-color: transparent !important;
+        opacity: unset;
+        border-top: 10px solid orange;
+        display:none;
+    
+    }
+
+input.down-button {
+   
+    font-size: 17px;
+   
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+   
+}
+
+    .con-tact p {
+        color: orange;
+        font-size: 21px;
+        font-weight: bold;
+        margin-bottom: 7px;
+    }
+    .wel h1 {
+        color: orange;
+        font-weight: bold;
+        font-size: 36px;
+    }
+    .pre-text {
+        padding-top: 14px;
+        padding-left: 0px;}
+    .board {
+        
+        margin: auto;
+        width: 100%;
+       
+        border: 0px solid white;
+    }
+    
+}
+
+.react-datalist-input__listbox {
+    height: 450%;
+    overflow: scroll;
+}
+
+@media only screen and (max-width:400px ) {
+    .de-in input[type=text] {
+        background: transparent;
+        border: transparent;
+        border-left: transparent;
+        border-top: transparent;
+        border-right: transparent;
+        border-bottom: 1px solid #000000;
+        font-size: 14px;
+        line-height: 21px;
+    }
+   
+    .firs-portion {
+        padding-left: 21px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-right: -1px;
+        font-size: 17px;
+        margin-top: 14px;
+        font-weight: bold;
+    }
+    .second-portion {
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 4px;
+        line-height: 35px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+/* input.down-button {
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+    border: none;
+    font-size: 16px;
+    padding: 2px 26px;
+} */
+
+input.text-linea{
+    width:50vw;}
+input.text-lineb{ width:51vw;}
+input.text-linec{ width:62vw;}
+input.text-lined{ width:50vw;}
+input.text-linee{ width:67vw;}
+input.text-linef{ width:64vw;}
+input.text-lineg{ width:50vw;}
+input.text-lineh{ width:58vw;}
+} 
+
+
+img.ft-image{
+
+    width: 147px;
+
+    padding-bottom: 22px;
+
+}

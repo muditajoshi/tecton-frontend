@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.reviewcontainer {
+    margin-top: 54px;
+    
+}
+
+.review-star-product {
+    color: #FFA500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.lead {
+    margin-bottom: 28px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    text-align: center;
+}
+
+.review-container {
+    width: 95%;
+    margin: 0 auto;
+    height: auto;
+    padding: 61px 121px 99px 121px;
+    gap: 10px;
+    background: linear-gradient(241.4deg, #000000 51.87%, #FFA500 99.92%);
+    color: #fff;
+    
+}
+
+.review-container .bi {
+    font-size: 32px;
+    padding: 0 4px;
+}
+
+.btn-review-cancle {
+    width: Fixed (216px);
+    height: Hug (52px);
+    padding: 17px 52px 17px 52px;
+    border-radius: 4px;
+    border: 1px;
+    gap: 8px;
+    border: 1px solid #fff;
+    margin-right: 18px;
+    color: #fff !important;
+
+}
+
+.btn-reviw-submit {
+    width: Fixed (216px);
+    height: Hug (52px);
+    padding: 17px 52px 17px 52px;
+    border-radius: 4px;
+    border: 1px;
+    outline: none;
+    background-color: #FFA500;
+    color: #111 !important;
+}
+
+.reviewtext {
+    width: 80%;
+    margin: 44px auto;
+}
+
+.reviewtext-user {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 28px 0;
+    display:flex
+}
+
+.text-uppercase {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+.review-star {
+    color: #FFA500;
+}
+
+.user-review-message {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.005em;
+    text-align: left;
+}
+
+
+.review-link {
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    top: 22px !important;
+    letter-spacing: -0.005em;
+    text-align: left;
+    color: #FFA500;
+}
+
+
+h2.staraveragefont  {
+    color: #000000;
+    font-family: "altgothic";
+    font-size: 70px;
+    font-weight: 700;
+    height: 71px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    text-align: center;
+    top: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .user-review-message {
+    color: #000000;
+    
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.15px;
+    line-height: 36px;
+    top: 0;
+    width: 578px;
+  }
+  
+  .hrscss {
+    color: #787878;
+   
+    font-size: 17px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.15px;
+    line-height: 36px;
+    top: 0;
+    width: 578px;
+  }
+  svg.star-grad {
+      font-size: 20px;
+  }
+.col-6y{
+    width: 50%;
+}
+  @media(max-width:600px){
+    .review-container {
+        /* width: 95%; */
+        margin: 0 auto;
+        height: auto;
+        padding: 42px 28px 100px 22px;
+        gap: 10px;
+        background: linear-gradient(241.4deg, #000000 51.87%, #FFA500 99.92%);
+        color: #fff;
+    }
+    .col-6y{
+        width: 100%;
+    }
+    .mb-5 {
+        margin-bottom: 1rem!important;
+    }
+    .review-star-product-message{
+        margin-bottom: 0px!important;
+    }
+    .user-review-message {
+        color: #000000;
+        font-size: 17px;
+        font-weight: 400;
+        left: 0;
+     letter-spacing: 0px; 
+        line-height: 22px; 
+        top: 0;
+        width: 578px;
+    }
+    .reviewtext-user {
+        display:block
+    }
+    h2.staraveragefont {
+        color: #000000;
+        font-family: "altgothic";
+        font-size: 47px;}
+    .text-uppercase  {
+        font-size: 14px;}
+        .lead {
+            margin-bottom: 5px;
+            font-size: 17px;
+            margin-top: -20px;
+        }
+        h3.text-uppercase  {
+            font-size: 15px;
+            margin-bottom: -15px;
+        }
+        .hrscss {
+            color: #787878;
+            font-size: 14px;
+            margin-bottom: -4px;}
+h5.text-uppercase{
+font-size: 13px;
+margin-bottom: -13px;
+
+}
+    .btn-review-cancle {
+      width: Fixed (216px);
+      height: Hug (52px);
+      padding: 6px 9px 6px 9px;
+      border-radius: 4px;
+      border: 1px;
+      gap: 8px;
+      border: 1px solid #fff;
+      margin-right: -5px;
+      color: #fff !important;
+    }
+    .reviewtext {
+         width: 100%;
+        margin: 10px auto;
+    }
+    .pt-5 {
+        padding-top: 0px!important;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .reviewcontainer {
+        margin-top: 0px!important;
+        padding-top: 0px;
+        margin-bottom: -50px;
+    }
+    .btn-reviw-submit {
+      width: Fixed (216px);
+      height: Hug (52px);
+      font-size: 13px;
+      margin-left: 10px;
+      padding: 9px 9px 9px 9px;
+      border-radius: 4px;
+      border: 1px;
+      outline: none;
+      background-color: #FFA500;
+      color: #111 !important;
+    }
+    .my-5 {
+        margin-top: 0px;
+        margin-bottom: 0px!important;
+    }
+    .text-center {
+        text-align: center!important;
+        font-size: 17px;
+    }
+  }

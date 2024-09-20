@@ -1,0 +1,1099 @@
+
+
+.btn-secondary {
+    color: black;
+    background-color: white;
+    border-color: #6c757d;
+    padding: 0px 5px 0px 5px;
+}
+.unsubscrive-survey-cancel{
+    padding-right: 4px;
+}
+.dropdown-menu-sub {
+    position: absolute;
+    z-index: 1000;
+    display: none;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 0.25rem;
+}
+.dropdown-item-sub{
+    border :none;
+    background: none;
+    color: black;
+    text-align: left;
+}
+.btn-secondary:hover {
+    color: black;
+    background-color:white;
+    /* border-color: #757575; */
+}
+.btn-secondary:visited {
+    color: black;
+    background-color:white;
+    /* border-color: #757575; */
+}
+.btn-secondary:target {
+    color: black;
+    background-color:white;
+    /* border-color: #757575; */
+}
+.btn-secondary:focus {
+    color: black;
+    background-color:white;
+    /* border-color: #757575; */
+}
+.btn-secondary:active {
+    color: black;
+    background-color:white;
+    /* border-color: #757575; */
+}
+
+.edit-sub-update-button{
+    background-color: orange;
+    border: none;
+    /* padding: 6px 68px 7px 65px; */
+    /* letter-spacing: 1px; */
+    font-size: 14px;
+    width: 70%;
+    padding-top: 6px;
+    padding-bottom: 2px;
+
+}
+.edit-sub-favorite-button {
+    border-radius: 15px;
+    /* padding: 7px 77px 5px 76px; */
+    background-color: white;
+    font-size: 14px;
+    width: 70%;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+.drop-shipping{
+    float: left;
+    margin-left: -6px;
+    font-size: 15px;
+}
+.drop-billing{
+
+    float: left;
+    margin-left: -6px;
+    font-size: 15px;
+}
+.sales-amt{
+    font-size: 10px;
+    padding-top: 45px;
+    
+    margin-left: -32px;
+
+}
+div.recuring-total{
+    font-size: 15px;
+    color: #757575;
+    float: left;
+    margin-left: 37px;
+
+}
+div.recuring-amount{
+    font-size: 15px;
+    color: #757575;
+    float: left;
+    margin-left: 107px
+
+}
+.edit-sub-quantity{
+   border-radius: 5px;
+        /* display: block; */
+        /* width: 228%; */
+        padding: 0.375rem 0.75rem;
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 1rem;
+        color: #212529;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #D9D9D9;
+        appearance: none;
+        /* border-radius: 0.25rem; */
+        /* margin-inline: 10px; */
+        /* transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out; */
+    
+}
+.box-quick-subcription-new {
+    position: relative;
+    width: 24%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 90vh;
+    margin-top: calc(120vh - 90vh - 30px);
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+}
+.react-calendar {
+    width: 100%!important;
+    max-width: 100%!important;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+    margin-top: 10px;
+}
+button.frqncy{
+    border: 1px solid #7575;
+    background-color: white;
+    border-radius: 4px;
+    padding-top: 4px;
+    margin-left: 1px;
+
+}
+.react-calendar button {
+    /* margin: 0; */
+    border: 0;
+    outline: none;
+    font-size: 12px;
+    border-radius: 7px;
+}
+.react-calendar__navigation button {
+    min-width: 44px;
+    background: none;
+    color: orange!important;
+    font-size: 15px;
+}
+.react-calendar__tile--active {
+    background: black!important;
+    color: white;
+}
+.react-calendar__month-view__weekdays__weekday {
+    padding: 0.5em;
+    background-color: #E1E1E1;
+}
+.box-quick-subcription{
+    
+    position: relative;
+    width: 39%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 90vh;
+    margin-top: calc(108vh - 90vh - 30px);
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+
+      
+}
+.box-quick-subcription-edit{
+    
+    position: relative;
+    width: 39%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 90vh;
+    margin-top: calc(130vh - 90vh - 30px);
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+
+      
+}
+.box-quick-subcription-skip-survey{
+    
+    position: relative;
+    width: 31%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 90vh;
+    margin-top: calc(107vh - 90vh - 30px);
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+
+      
+}
+
+ .tol.col-sm-2{
+    background:black;
+    padding: 2px;
+   
+    height:100vh
+}
+.edit-subscription{
+    border: none ;
+    background-color: white;
+    color: grey;
+    font-size: 12px;
+    text-decoration:underline;
+}
+.sales.amt{
+    font-size: 15px
+}
+.edit-subscription-ship{
+    border: none ;
+    background-color: white;
+    color:black;
+    font-size: 17px;
+    font-weight: bold;
+    padding-right: 25px;
+    
+    text-decoration:underline;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+.Edit-sub-apply-button
+{
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 27px;
+    padding-right: 29px;
+
+}
+
+
+div.col-sm-10.co-form{
+    padding-left: 20px;
+}
+h3.subp{
+    padding-left: 50px;
+    color: orange;
+    font-size: 31 px;
+    font-weight: bold;
+    padding-top: 65px;
+    padding-bottom: 14px;
+
+} 
+
+p.ts-info{
+    
+    font-weight: 600;
+    padding-left: 50px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+p.pass-sub{
+    font-weight: 600;
+    padding-left: 50px;
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+
+/* .sub{
+    padding: 0px;
+    height: auto;
+    width: auto;
+    font-style: "bicyclette" ;
+} */
+div.column-4 {
+        font-weight: bold;
+        float: left;
+        width: 43%;
+        padding: 10px;
+        height: auto;
+        /* padding-left: 51px; */
+}
+div.column-1 {
+    font-weight: bold;
+    float: left;
+    width: 16%;
+    padding: 10px;
+    height: auto; 
+  
+}
+div.column-3 {
+    font-weight: bold;
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: auto; 
+  
+}
+div.column-2 {
+    font-weight: bold; 
+    float: left;
+    width: 9%;
+    padding: 10px;
+    height: auto; 
+  
+}
+
+.fr-group{
+    padding-left: 45px;
+  
+}
+
+input.btn-default{
+   display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color:black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+    /* border-radius: 0.25rem; */
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+padding-right: 2rem!important;
+    padding-left: 2rem!important;
+   padding-top: 0rem;
+    padding-bottom: 0rem;
+
+}
+
+.edit-sub-summary-sub {
+    float: left;
+    margin-top: -27px;
+    /* padding-left: 11px; */
+    font-size: 25px;
+    font-weight: 400;
+}
+.pro-part11 {
+    padding-left: 48px;
+}
+.skip-mobile{
+    display:none!important
+}
+.skip-desktop{
+    display:block!important
+}
+.ship-now-confirm-new{
+    text-align:right;
+}
+.delivery-every-week-mobile{
+    display:none
+}
+.delivery-every-week-desktop{
+display:block
+}
+
+.modify-update-cancel-mobile{
+    display:none
+}
+.modify-update-cancel-desktop{
+    display:block
+}
+.unsubscrive-survey-cancel-option{
+    display: flex;
+}
+@media only screen and (max-width:610px ) {
+    .modify-update-cancel-mobile{
+        display: block!important;
+    }
+    .modify-update-cancel-desktop{
+        display:none!important
+    }
+    .unsubscrive-survey-cancel-option{
+        display: block;
+    }
+    .delivery-every-week-mobile{
+        display:block!important
+    }
+    .delivery-every-week-desktop{
+    display:none!important
+    }
+.tol.col-sm-2 {
+    display: none!important;
+}
+.skip-desktop{
+    display:none!important
+}
+.skip-mobile{
+    display:block!important
+}
+
+.ship-now-confirm-new{
+    text-align: center;
+}
+.box-quick-subcription-new {
+    position: relative;
+    width:80%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 90vh;
+    margin-top: calc(120vh - 90vh - 30px);
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    border: 1px solid #999;
+}
+.pro-part11 {
+    padding-left: 0px;
+}
+h3.subp{
+    padding-left: 14px;
+    padding-top: 19px;
+    margin-top: -56px;
+    font-size: 36px;
+padding-bottom: 0px;
+}
+p.ts-info{
+    
+    padding-left: 17px;
+    font-size: 23px;
+    padding-bottom: 10px;
+
+}
+div.column-1 {
+
+    font-size: 10px;
+
+    /* width: 11%; */
+
+}
+
+.btn-secondary {
+    color: black;
+    background-color: white;
+    border-color: #6c757d;
+    padding: 0px 0px 0px 3px;
+    width: -18px;
+    font-size: 10px;
+}
+div.column-3 {
+    width: 26%;
+    font-size: 10px;
+}
+div.column-2 {
+
+    font-weight: bold;
+
+width: 17%!important;
+    font-size: 10px;}
+p.pass-sub {
+    font-weight: 600;
+    padding-left: 18px;
+    font-size: 22px;
+    padding-top: 5px;
+    
+}
+.edit-subscription{
+    
+    font-size: 9px;}
+.fr-group {
+    padding-left: 21px;
+    padding-top: 5px;
+}
+div.column-3 {
+    
+    width: 19%;
+}
+div.column-4 {
+   
+    /* width: 27%; */
+   
+    padding-left: 60px;
+}
+div.col-sm-10.co-form {
+    padding-left: 8px;
+}
+input.btn-default{
+    
+    font-size: 17px;
+   
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+   
+}
+}
+.edit-sub-summary-sub
+{
+float: left;
+    margin-top: -27px;
+    /* padding-left: 11px */
+}
+.edit-sub-summary
+{
+text-align: center;
+    /* margin-top: -27px; */
+    /* padding-left: 11px; */
+    padding-bottom:12px
+
+}
+.dropdown-container{
+    
+    font-size: 15px;
+}
+.bill-edit{
+    float: left!important;
+}
+.order-total-edit{
+    margin-right: 288px;
+    color: #757575;
+}
+.star-icon-edit{
+    margin-left: -1px;
+    float: left;
+
+}
+.amount-totl-edit{
+    float: right;
+margin-top: -119px;
+color: #757575;
+}
+.sub-tt-edit {
+    font-size: 28px;
+    font-weight: bold;
+    /* padding-top: 10px; */
+    /* margin-left: -281px; */
+    float: left;
+color: black;
+}
+.sub-tot-edit{
+    font-size: 23px;
+    font-weight: bold;
+    /* padding-top: 10px; */
+    /* float: right; */
+    /* margin-top: -52px; */
+    margin-right: -4px;
+    color: black;
+
+}
+
+.form-control-ship-exp-cnfm-edit {
+    display: block;
+    width: 81%;
+    float: left;
+    /* margin-bottom: 17px; */
+    margin-top: -1px;
+    /* margin-left: 16px; */
+    /* margin-inline: 4px; */
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.close-icon-edit-sub{
+    content: 'x';
+    margin-right: 3px;
+    cursor: pointer;
+    position: static;
+    margin-top: -13px;
+    right: calc(15% - 30px);
+    top: calc(100vh - 85vh - 33px);
+    background: #ededed;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #999;
+    font-size: 20px;
+padding-right: 5px;
+padding-left: 5px;
+float: right;
+
+}
+.for-mobile{
+    display: none !important;
+}
+@media only screen and (max-width:865px ) {
+.box-quick {
+    position: relative;
+    width: 100%!important ;
+    margin: 0 auto;
+}
+.box-quick-subcription-skip-survey {
+    position: relative;
+    width: 48%!important;
+}
+
+}
+@media only screen and (max-width:1080px ) {
+    .box-quick {
+        position: relative;
+        width: 74%;
+        margin: 0 auto;
+        margin-top: 21px
+    }
+    .box-quick-manage {
+        position: relative;
+        width: 88%;}
+        .box-quick-editbilling {
+            position: relative;
+            width: 88%;}
+    .subscription-new-design {
+        padding-left: 0px!important;
+    }
+    .edit-sub-favorite-button {
+        border-radius: 15px;
+        padding: 5px 60px 5px 76px;
+        background-color: white;
+        font-size: 15px;
+    }
+    .edit-sub-update-button {
+        background-color: orange;
+        border: none;
+        /* padding: 6px 68px 7px 65px; */
+        /* letter-spacing: 1px; */
+        font-size: 12px;
+        width: 70%;
+        padding-top: 5px;
+        padding-bottom: 4px;
+    
+    }
+    .box-quick-subcription-edit {
+        position: relative;
+        width: 37%;
+        margin: 0 auto}
+        .box-quick-subcription {
+            position: relative;
+            width: 67%;
+            margin: 0 auto;
+            margin-top: 59px;
+        }
+        .box-quick-subcription-skip-survey {
+            position: relative;
+            width: 31%;}
+    }
+    div.veterans{
+        font-size: 14px;
+    }
+
+    div.product-k-subscription {
+        font-size: 17px;
+        font-weight: bold;
+        margin-top: -5px;
+        margin-bottom: -20px;
+    }
+    
+@media only screen and (max-width:610px ) {
+    .dropdown-container-input{
+        width:297px
+    }
+    .box-quick {
+        position: relative; 
+    width: 95%!important;
+    /* overflow-y: auto; */
+    margin-top: 49px;
+    height: 55%;
+    overflow-y: scroll;
+
+    
+    }
+    .edit-subscription-total{
+        font-size: 16px;
+    }
+    div.veterans{
+        font-size: 12px;
+    }
+    div.button-edit-sub{
+        margin-left: -14px;
+
+    }
+    .form-control-ship-exp-cnfm {
+        width: 60%};
+    .edit-sub-update-button {
+        background-color: orange;
+        border: none;
+        padding: 9px 69px 7px 69px;
+        font-size: 14px;
+      
+    }
+    .edit-sub-favorite-button {
+        border-radius: 15px;
+        /* padding: 6px 60px 5px 69px; */
+        background-color: white;
+        font-size: 14px;
+padding-top: 3px;
+    }
+    .order-total-edit {
+        margin-right: 337px;
+        margin-left: -7px;
+    }
+    .sales-amt {
+        /* padding-left: 30px; */
+        font-size: 13px;
+        /* float: left; */
+        padding-left: -25px;
+        padding-bottom: 8px;
+      
+        color: #757575;
+        margin-left: -20px;
+    }
+    .amount-totl-edit{
+        float: right;
+    margin-top: -119px;
+
+    }
+    .sub-tt-edit {
+        font-size: 21px;
+        font-weight: bold;
+       
+       
+       
+    }
+    .product-btn-default-cnfm-CON {
+
+        width: 87% !important;;
+        margin-left: 20px!important;
+    }
+        .edit-sub-summary-sub {
+            float: left;
+            margin-top: -9px;
+            /* padding-left: 11px;
+            margin-left: -20px;
+            font-size: 28px; */
+
+        }
+        .edit-sub-summary {
+           text-align: center!important;
+            margin-top: 24px;
+            padding-left: 11px;
+            padding-bottom: 16px;
+        }
+        .box-quick-subcription {
+            position: relative;
+            margin-top: 76px;
+            width: 85%;}
+            .box-quick-subcription-edit {
+                position: relative;
+                margin-top: 76px;
+                width: 85%;}
+            .box-quick-subcription-skip-survey {
+                position: relative;
+                width: 100%!important;}
+                span.close-icon {
+                    content: 'x';
+                    margin-right: 0px;
+                    cursor: pointer;
+                    position: static;
+                    margin-top: -20px;
+                    padding-top: 2px;
+                    font-size: 19px;
+                }
+                
+        div.product-k{
+            padding-left: 0px;
+    padding-top: 20px;
+    margin-left: -15px
+
+        }
+        .for-mobile{
+            display: block !important;
+        }
+        .for-desktop{
+            display: none !important;
+        }
+        div.subscription-heading{
+            padding-left: 13px;
+    font-size: 13px;
+    font-weight: bold;
+
+        }
+        div.qqnty{
+            font-size: 10px;
+        }
+}
+
+@media only screen and (max-width:610px ){
+    .edit-sub-update-button {
+        background-color: orange;
+        border: none;
+         padding: 7px 57px 3px 57px; 
+        letter-spacing: 1px;
+        font-size: 14px;
+       
+    }
+    .skip-message{
+        font-size: 15px;
+    }
+    button.modify {
+        
+        font-size: 11px!important;
+        padding: 2px 14px 2px 14px;
+        letter-spacing: 0px;
+        
+    }
+    button.edit {
+       
+        font-size: 11px!important;
+        letter-spacing: 0px!important;
+    }
+    button.modify-skiporder {
+        
+        font-size: 15px!important;
+        padding: 2px 14px 2px 14px;
+        letter-spacing: 0px;
+        width:70%
+    }
+    button.edit-skiporder {
+       
+        font-size: 15px!important;
+        letter-spacing: 0px!important;
+    }
+    .subscription-detail-mapping {
+       
+        font-size: 12px!important;}
+        .subscription-detaill {
+            display: flex;
+            font-size: 11px!important;}
+    .subscription-new-design{
+        padding-left: 8px!important;
+        padding-right: 8px;
+    }
+    div.edit-ship{
+        display: flex;
+    
+    margin-bottom: 21px;
+
+    }
+    .amount-totl-edit-sub {
+        float: right;
+        margin-top: -119px!important;
+        color: #757575;
+        margin-inline: 100px!important;
+    }
+    .popup-box-quick {
+        /* position: fixed; */
+        background: #00000050;
+        width: 100%!important;
+        height: 170vh;
+        top: 0;
+        left: 0px;
+    }
+    .quantity-editsub{
+        padding-right: 10px!important;
+    }
+.delivery-every-week{
+    padding-top: 2px;
+}
+    .pro-part1-edit {
+        padding-left: 15px!important;
+    }
+    .sub-tot-edit {
+        font-size: 19px!important;}
+        div.recuring-amount {
+            font-size: 15px;
+            color: #757575;
+            float: left;
+            margin-left: 183px;
+        }
+        #subscription-for-desk{
+            display:none!important
+        }
+        #subscription-for-mob{
+            display:block!important
+        }
+        div.recuring-total {
+            font-size: 15px;
+            color: #757575;
+            float: left;
+            margin-left: 14px;
+        }
+        .sales-amt-editsub {
+            font-size: 12px;
+            padding-top: 25px;
+            margin-left: -83px!important;
+        }
+}
+.pro-part1-edit {
+    padding-left: 85px;
+}
+.form-control-ship-exp-bill-ship-edit-shipping {
+    display: block;
+    width: 49.5%;
+    float: left;
+    margin-bottom: 8px;
+    margin-top: -7px;
+    margin-left: 16px;
+    margin-inline: 0px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid#cdd4dc;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+option {
+    font-size: 15px;
+    background-color: #ffffff;
+  }
+  
+  option:before {
+    content: ">";
+    font-size: 20px;
+    display: none;
+    padding-right: 10px;
+    padding-left: 5px;
+    color: #fff;
+  }
+  
+  option:hover:before {
+    display: inline;
+  }
+  option {
+    font-weight: normal;
+    display: block;
+    white-space: nowrap;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+
+.sales-amt-editsub{
+
+    font-size: 12px;
+  
+      padding-top: 25px;
+  
+      margin-left: -23px;
+  
+  }
+
+  .amount-totl-edit-sub {
+
+    float: right;
+    margin-top: -163px;
+    color: #757575;
+    margin-inline: 48px;
+
+
+}
+
+.sub-tt-edit-sub {
+
+    font-size: 28px;
+
+    font-weight: bold;
+
+ 
+
+    margin-right: 298px;
+
+}
+
+
+
+.subscription-box{
+    border: 1px solid orange;
+    border-radius: 5px;
+margin-top: 11px;
+}
+.subscription-detail-mapping{
+    display: flex;
+    background: #FFEDD9;
+    border-bottom: 1px solid orange;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.subscription-detaill{
+    display: flex;
+    font-size: 15px;
+    padding-top: 10px;
+color: #757575;
+}
+button.edit-skiporder{
+    background: none;
+    border: none;
+    text-decoration: underline;
+    font-size: 14px;
+    letter-spacing: 2px;
+    
+
+}
+button.edit-mobile-sub{
+background-color: white;
+letter-spacing: 2px;
+font-size: 13px;
+padding-top: 6px;
+
+border: 1px solid black;
+}
+button.modify-mob-new {
+    background: orange;
+    border: none;
+    font-size: 14px;
+    padding: 7px 14px 3px 14px;
+    letter-spacing: 2px;
+    width: 100%;
+}
+#subscription-for-mob{
+    display:none
+}
+#subscription-for-desk{
+    display:block
+}
+.subscription-box-new {
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 11px;
+    padding: 12px;
+}
+button.edit{
+    background: none;
+    border: none;
+    text-decoration: underline;
+    font-size: 14px;
+    letter-spacing: 2px;
+    
+
+}
+.subscription-new-design{
+    padding-left: 100px;
+}
+button.modify{
+    background: orange;
+    border: none;
+    font-size: 14px;
+    padding: 7px 14px 2px 14px;
+    letter-spacing: 2px;
+
+}
+input.skip-date{
+    border: 1px solid #7575;
+    border-radius: 4px;
+    padding: 4px 5px 3px 5px;
+
+}
+.skip-message{
+    text-align: left;
+    background-color: #efffef;
+    padding: 15px;
+    border: 1px solid  #08b608;
+    border-radius: 4px;
+
+}
+button.modify-skiporder{
+    background: orange;
+    border: none;
+    font-size: 14px;
+    padding: 7px 14px 3px 14px;
+    letter-spacing: 2px;
+
+}
+select {
+    word-wrap: normal;
+    font-size: 15px;
+}

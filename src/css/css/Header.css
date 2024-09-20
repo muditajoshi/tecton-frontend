@@ -1,0 +1,223 @@
+
+
+.header{
+    display: flex;
+    background-color: transparent;
+    background: none;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    margin: 0px;
+    margin-top: 0px;
+    z-index: 100;
+    border-bottom: 0.5px solid grey;
+}
+
+.ghostItem{
+    border: 0px solid transparent;
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.revealItems{
+    border: 0px solid transparent;
+    padding: 5px;
+}
+
+.header_logo{
+    height: auto;
+    width: 4rem;
+    /* margin-top: 15px; */
+    margin-left: 2rem;
+}
+
+.header_logo img{
+    height: 30px;
+    margin: 10px 0;
+    position: relative;
+    width: 168px;
+}
+
+
+.header_center{
+    flex: 1;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.header_center p{
+    /* margin: 10px; */
+	/* margin-top: 1.5rem; */
+	font-weight: 600;
+}
+
+.header_right{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+	font-weight: 600;
+	
+}
+
+.header_right p{
+    margin: 10px;
+	margin-top: 1.5rem;
+}
+
+.ghostItem{
+    border: solid 1px transparent;
+    /* border-radius: 10px; */
+    padding: 0px 23px;
+    font-size: 17px;
+    color: white;
+    /* background-color:rgb(0,0,0,0.2); */
+    height: fit-content;
+}
+
+.ghostItem:hover{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 4px;
+}
+
+.revealItems:hover {
+    background-color: rgba(255, 166, 0, 0.745) !important;
+    border: 1px solid rgba(255, 166, 0, 0.745) !important;
+	transition:rgba(255, 166, 0, 0.745) .33s ease;
+}
+
+.revealItems {
+    background-color: rgba(255, 166, 0, 0.745) !important;
+    border: 1px solid rgba(255, 166, 0, 0.745) !important;
+	transition:rgba(255, 166, 0, 0.745) .33s ease;
+    box-shadow: none !important;
+}
+
+.revealGhostItems{
+    display: none;
+}
+
+@media(max-width: 1200px){
+    .ghostItem{
+        display: none;
+    }
+    .revealItems{
+        background-color: orange;
+        border: solid 1px transparent;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    .revealGhostItems{
+        display: block;
+        /* margin-right: 15px; */
+        margin: auto 0px;
+    }
+    .menu{
+        /* background-color: orange !important; */
+        /* padding-top: 8px !important; */
+        font-size: 32px !important;
+        height: 35px;
+        border: solid transparent 0px;
+        border-radius: 15px !important;
+    }
+}
+
+.listItem{
+    /* margin-bottom: 12px; */
+    margin-left: 10%;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+
+@media(max-width: 1200px){
+    .header_logo img{
+        width: 168px;
+        height: 30px;
+        margin-left: 0px;
+    }
+
+    .nav-link{
+        padding: 0px;
+        font-size: 30px!important;
+        /* font-weight: bolder; */
+        font-weight: bold;
+        background-color: transparent!important;
+        color: white!important;
+    }
+
+    div.headergayab .nav-link{
+        display: none;
+    }
+
+}
+
+.navbar-toggler{
+    padding: 0rem 0.75rem
+}
+
+.offcanvas{
+    background-color: orange;
+}
+
+.dropdown-menu{
+    text-align: right;
+    background-color: orange;
+    border: none;
+    border-radius: 0px!important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.dropdown-item{
+    color:white;
+    font-size: 20px;
+}
+
+.listItem:hover{
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+    text-decoration-color: orange;
+}
+
+.nav-link{
+    padding: 0px 23px;
+    font-size: 17px;
+    /* background-color: rgb(0,0,0,0.2); */
+    font-weight: 600;
+    color: black    ;
+}
+
+.nav-link:focus, .nav-link:hover{
+    color:black;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: orange;
+}
+
+.dropdown-item {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.dropdown-toggle::after{
+    display: none;
+}
+
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: white!important;
+    color: black;
+}
+

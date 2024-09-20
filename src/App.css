@@ -1,0 +1,82 @@
+.App {
+  font-family: "aktiv-grotesk", sans-serif;
+font-style: normal;
+font-weight: 400;
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.body{
+  /* font-family: "Aktiv Grotesk Regular", sans-serif; */
+font-style: normal;
+font-weight: 400;
+font-display: auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@font-face {
+	font-family: 'altgothic';
+  src: local('alt-gothic-cond-med'), url("./fonts/alt-gothic-cond-med.otf") format("opentype");
+}
+@font-face {
+	font-family: 'aktiv-regular';
+  src: local('aktiv-regular'), url("./fonts/aktiv-regular.otf") format("opentype");
+}
+@font-face {
+  font-family: 'aktiv';
+  src: local('aktivgrotesk'), url("./fonts/aktivgrotesk.otf") format("opentype") ;
+  font-display:block;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family: 'aktivL';
+  src:local('aktivgrotesklight'), url("./fonts/aktivgrotesklight.otf") format("opentype");
+}
+@font-face {
+	font-family: 'aktiv-Grotesk-Ext-Med';
+  src:local('aktiv-grotesk-Ext-Medium'), url("./fonts/aktiv-grotesk-Ext-Medium.otf") format("opentype");
+}
+@font-face {
+	font-family: 'aktivExt';
+  src:local('aktivgroteskExt'), url("./fonts/aktivgroteskExt.otf") format("opentype");
+}
+@font-face {
+	font-family: 'altgothic-alt';
+  src: local('alt-gothic-cond-med'), url("./fonts/alt-gothic-alt.otf") format("opentype");
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body{
+  scrollbar-gutter: auto
+}
+
+

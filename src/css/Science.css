@@ -1,0 +1,631 @@
+
+
+body {
+  
+  overflow-x: hidden;
+}
+.science-font{
+font-family: "aktiv";
+}
+.image-space {
+  position: absolute;
+  top: 420px;
+  padding-left: 111px;
+  text-align: left;
+}
+.caption-section-1{
+  font-size: 42px;
+    font-weight: bold;
+    /* float: left; */
+    padding-bottom: -32px;
+    margin-top: -273px;
+
+}
+
+#image-tel1 {
+
+  background-image: url("../images/Tecton_Science_Header.webp");
+  width: 100vw;
+  height: 96vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+
+
+.text-middle {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+.text-1 {
+  padding: 74px 27px 20px 40px;
+  border: 1px solid #75757575;
+  text-align: center;
+  margin-right: 35px;
+  margin-left: 12px;
+  margin-top: 50px;
+border-radius: 30px;
+color:#ffffff
+}
+
+.text-5 {
+  /* height: 45%; */
+  font-size: 18px;
+  text-align: left;
+  /* padding-top: 51px; */
+  
+  
+  padding-bottom: 53px;
+
+}
+.text-10-1 {
+  text-align: center;
+    /* padding-top: 65px;
+    padding-bottom: 120px;
+    padding-right: -23px;
+    padding-left: 108px; */
+    margin-top: 76px;
+  
+}
+
+.text-10-2 {
+  text-align: center;
+    /* padding-top: 27px;
+    padding-bottom: 228px;
+    padding-right: -23px;
+    padding-left: 108px; */
+    margin-top: 1px;
+  
+}
+
+
+.text-10 {
+  margin-top: 141px;
+
+  text-align: center;
+  /* padding-top: 27px;
+  padding-bottom: 130px;
+  padding-right: -23px;
+  padding-left: 91px; */
+  
+}
+
+.text-12 {
+  align-content: center;
+  text-align: center;
+  color: black;
+  font-size: 31px;
+  padding-bottom: 91px;
+  /* margin-top: 66px; */
+}
+
+.text-9 {
+  padding-top: 227px;
+  
+  font-size: 18px;
+  text-align: left;
+  
+
+}
+.accordion{
+  padding-top: 51px;
+    font-size: 24px;
+    font-weight: 200;
+border:none;
+padding-bottom: 40px
+}
+.accordion-content{
+  font-size: 17px;
+  padding-left: 10px;
+}
+.accordion-item {
+  background-color: #fff;
+  /* border: 1px solid rgba(0,0,0,.125); */
+  display: flex;
+  border: none;
+}
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  font-weight: 100;
+  color:#75757575
+}
+.collapsible-science{
+  color:orange;
+    cursor: pointer;
+   
+    border: none;
+   
+    font-size: 25px;
+    
+   margin-top:-16px;
+    background-color: white;
+    font-size: xxx-large;
+    font-weight: 200;
+    padding-right: 20px;
+    float:right;
+  
+  
+}
+.caption-section-1{
+  display: block !important;
+}
+.caption-section-2{
+display: none !important;
+}
+button.read-science{
+  background-color: black;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 18px;
+    border: 1px solid white;
+    
+    padding: 11px 28px 7px 30px;
+
+}
+div.text-2{
+  font-size: 18px;
+  font-weight: 400;
+  color:#000000;
+}
+.bottom-content {
+  text-align: center;
+  background: black;
+  color: white;
+  font-size: 18px;
+  padding-bottom: 102px;
+  padding-top: 65px;
+  padding-left: 138px;
+  padding-right: 138px;
+
+}
+
+#science-desktop{
+display: block
+}
+
+#science-phone{
+  display: none!important;
+}
+.science-box-font{
+  font-family: "aktivExt";
+}
+
+.mobile-first{
+  padding: 29px 12px 23px 10px;
+    font-size: 17px;
+    line-height: 24px;
+}
+.text-middle-phone{
+  padding-top: 70px;
+    padding-bottom: -2px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.text-10-mobile{
+  padding: 35px 0px 35px 0px;
+}
+
+.content-phone{
+  color: black;
+    padding: 0px 10px 0px 10px;
+}
+.coll-asap-phone {
+  border: none;
+  background-color: white;
+  color: #757575;
+  padding-left: 10px;
+  /* text-decoration: underline; */
+  padding-top: 10px;
+}
+
+.text-10-phone{
+  
+  padding-top: 42px;
+  padding-bottom: 22px;
+}
+.text-10-phone-can{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 42px;
+  padding-bottom: 22px;
+}
+
+ .fa{
+  border: 1px solid  #757575;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+
+
+}
+.text-12-phone {
+  align-content: center;
+  text-align: center;
+  color: black;
+  font-size: 26px;
+  padding-bottom: 24px;
+  padding-top: 48px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.new-science-subheads{
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+.bottom-content-phone {
+  text-align: center;
+  background: black;
+  color: white;
+  font-size: 18px;
+  padding-bottom: 43px;
+  padding-top: 47px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+button.read-science-1 {
+  background-color: white;
+  color: orange;
+  letter-spacing: 2px;
+  font-size: 18px;
+  border: 1px solid orange;
+  
+  padding: 7px 28px 2px 28px;
+}
+
+.collapsible-science-phone {
+  color: black;
+  cursor: pointer;
+  border: none;
+  font-size: 38px;
+  margin-left: 22px;
+  background-color: white;
+
+  
+}
+@media screen and (max-width: 1450px) and (min-width: 1000px){
+.science-screen-size{
+   padding-top: 54px;
+   font-size: 40px;
+}
+.new-science-subheads {
+  font-size: 21px;}
+}
+.accordion-content-p{
+  font-size: 17px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.collapsible-science-phone-2 {
+  color: black;
+  cursor: pointer;
+  border: none;
+  font-size: 38px;
+  margin-left: 125px;
+
+  background-color: white;
+
+  
+}
+.collapsible-science-phone-3 {
+  color: black;
+  cursor: pointer;
+  border: none;
+  font-size: 38px;
+  margin-left: 37px;
+  background-color: white;
+
+  
+}
+.collapsible-science-phone-4 {
+  color: black;
+  cursor: pointer;
+  border: none;
+  font-size: 38px;
+  margin-left: 109px;
+  background-color: white;
+
+  
+}
+
+
+
+.text-1-phone{
+  border: 1px solid #75757575;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+
+  border-radius: 12px;
+  padding-left: 10px
+}
+.accordion-title-phone{
+  display: flex;
+}
+
+@media only screen and (max-width:1497px) {
+
+  #image-tel1 {
+
+    background-image: url("../images/Tecton_Science_Header.webp");
+    width: 100vw;
+    height: 96vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+}
+
+
+
+
+@media only screen and (max-width:1457px) {
+  .image-space {
+
+    position: absolute;
+    top: 328px;
+    left: -16px;
+    text-align: left;
+    font-size: 3.5vw;
+  }
+
+}
+
+@media only screen and (max-width:919px) {
+  .image-space {
+    position: absolute;
+    top: 290px;
+    left: 171px;
+    text-align: left;
+
+  }
+
+}
+
+@media only screen and (max-width:918px) {
+  .image-space {
+    position: absolute;
+    top: 250px;
+    padding-left: 43px;
+    text-align: left;
+
+  }
+
+
+
+}
+
+@media only screen and (max-width:918px) {
+  .image-space {
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    text-align: left;
+    font-size: 2vw;
+  }
+  .text-5 {
+    /* height: 45%; */
+    font-size: 10px;
+    padding-bottom: 0px;
+  }
+
+  .caption-section-1 {
+    padding-top:133px
+}
+    .text-9 {
+      padding-top:0px;
+      font-size: 10px;
+      text-align: left;
+  }
+   
+}
+
+@media only screen and (max-width:600px) {
+  .image-space {
+    position: absolute;
+    top: 140px;
+    left: 60px;
+    text-align: left;
+
+  }
+  #image-tel1 {
+
+    background-image: url("../images/Tecton_Science_HeaderMobile.webp");
+    width: 100vw;
+    height: 76vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+
+
+.accordion{
+  font-size: 20px;
+}
+
+.caption-section-1{
+  display: none !important;
+}
+.caption-section-2{
+  font-size: 30px;
+  display: block !important;
+    font-weight: bold;
+    /* float: left; */
+    padding-bottom: -32px;
+    margin-top: 0px!important;
+    margin-left: -48px;
+  
+}
+
+
+
+.collapsible-science {
+  color: orange;
+  cursor: pointer;
+  border: none;
+  font-size: 35px;
+  /* font-weight: 600; */
+  margin-top: -9px;
+  background-color: white;
+  /* font-size: xxx-large; */
+  font-weight: 100!important;
+  padding-right: 14px;
+  float: right;
+}
+
+
+  #image-tel1 {
+    height: 76vh !important;
+    background-position: 68%;
+
+  }
+
+  #science-desktop{
+    display: none!important
+    }
+    
+    #science-phone{
+      display: block!important;
+    }
+    
+
+}
+
+@media only screen and (max-width:448px) {
+  .image-space {
+    position: absolute;
+    top: 100px;
+    padding-left: 11px;
+    text-align: left;
+
+  }
+
+p.contact-us-heading{
+  padding-left: 18px;
+    padding-right: 10px;
+}
+div.text-area-contact{
+  width: 133%;
+}
+div.col-contact{
+  width: 133%;
+}
+.text-10-phone-can {
+ 
+  padding-top: 0px;
+
+}
+}
+
+@media only screen and (max-width:334px) {
+  .image-space {
+    position: absolute;
+    top: 60px;
+    padding-left: 11px;
+    text-align: left;
+
+  }
+
+}
+@media only screen and (max-width:376px) {
+  .collapsible-science-phone {
+    
+    margin-left: 6px;
+    background-color: white;
+  
+    
+  }
+  
+  .collapsible-science-phone-2 {
+    
+    margin-left: 105px;
+  
+    background-color: white;
+  
+    
+  }
+  .collapsible-science-phone-3 {
+    
+    margin-left: 18px;
+    background-color: white;
+  
+    
+  }
+  .collapsible-science-phone-4 {
+    
+    margin-left: 91px;
+    background-color: white;
+  
+    
+  }
+   p.mobile-science-block{
+    font-size: 18px!important;
+        padding-left: 10px!important;
+        padding-top: 32px!important;
+    } 
+    
+
+}
+
+@media only screen and (max-width: 350px){
+.collapsible-science-phone-4 {
+    margin-left: 54px;
+    background-color: white;
+}
+p.mobile-science-block{
+font-size: 15px!important;
+    padding-left: 10px!important;
+    padding-top: 29px!important;
+}
+.collapsible-science-phone-2 {
+  margin-left: 98px;
+  background-color: white;
+}
+.collapsible-science-phone-3 {
+  margin-left: 23px;
+  background-color: white;
+}
+.collapsible-science-phone-4 {
+  margin-left: 82px;
+  background-color: white;
+}
+}
+
+
+@media only screen and (max-width: 337px){
+  .collapsible-science-phone-4 {
+      margin-left: 54px;
+      background-color: white;
+  }
+  p.mobile-science-block{
+  font-size: 13px!important;
+      padding-left: 10px!important;
+      padding-top: 29px!important;
+  }
+  .collapsible-science-phone-2 {
+    margin-left: 88px;
+    background-color: white;
+  }
+  .collapsible-science-phone-3 {
+    margin-left: 23px;
+    background-color: white;
+  }
+  .collapsible-science-phone-4 {
+    margin-left: 75px;
+    background-color: white;
+  }
+  }

@@ -1,0 +1,296 @@
+.product-btn-default-single-quick {
+    display: inline-block;
+    font-weight: 400;
+    width: 50%;
+    line-height: 1.5;
+    color: black;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: orange;
+    border: 1px solid transparent;
+    /* padding: 10.375rem -4.25rem; */
+    font-size: 14px;
+    /* border-radius: 0.25rem; */
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding-right: 7rem!important;
+    padding-left: 2rem!important;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+.sub-scribe-quick{
+    margin-top: -56px;
+}
+.product-btn-subs-add-quick {
+    color: orange;
+    border-radius: 29px;
+    /* border-color: black; */
+    background-color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 15px;
+    letter-spacing: 3px;
+    border: 1px solid;
+}
+
+.popup-box-quick {
+    position: fixed;
+    background: #00000554;
+    width: 100%;
+    height: 100vh;
+    top: 30px;
+    left: 0;
+  }
+  span.close-icon {
+    content: 'x';
+    margin-right: 86px;
+    cursor: pointer;
+    /* position: fixed; */
+    right: calc(15% - 30px);
+    top: calc(100vh - 85vh - 33px);
+    background: #ededed;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #999;
+    font-size: 20px;
+  }
+   
+  .box-quick{
+
+
+    overflow-y: scroll;
+    position: relative;
+
+    width: 43%;
+
+    margin: 0 auto;
+
+    height: auto;
+
+    max-height: 105vh;
+
+    margin-top: calc(100vh - 90vh - 30px);
+
+    background: #fff;
+
+    border-radius: 4px;
+
+    padding: 20px;
+
+    border: 1px solid #999;
+
+   
+
+  }
+
+.col-sm-for{
+    float: right;
+    padding-left: -54px;
+    margin-top: -70px;
+    color: black;
+    font-size: 48px;
+}
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+}
+div.arrow-cart-new{
+display: inline-flex;
+}
+.ask-add-quick {
+    padding-left: 4px;
+    padding-top: 10px;
+}
+.part-quick{
+/* position: relative; */
+    height: 589px;
+    overflow: hidden;
+    /* background-color:#8080802e; */
+    margin-left: 27px;
+}
+h3.pro-duct-quick {
+    font-size: 30px;
+    font-weight: bold;
+    color:orange;
+    padding-left: 37px;
+    
+}
+div.pro-duct-only-quick{
+    font-size: 30px;
+    font-weight: bold;
+    color:orange;
+}
+.unsubscribe-survey-text{
+color: rgb(117, 117, 117);
+    text-align: left;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.unsubscribe-survey-text2{
+text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+}
+.unsubscribe-survey-text3{
+color: rgb(117, 117, 117);
+    text-align: left;
+    font-size: 16px;}
+    
+    .unsubscribe-survey-text4 p{
+    display: flex;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-left: 3px;
+}
+.unsubscribe-survey-text4 {
+    display: flex;
+    font-size: 14px;
+}
+
+.unsubscribe-textarea{
+width: 90%;
+    height: 80px;
+    font-size: 16px;
+    border: 1px solid rgb(217, 217, 217);
+    border-radius: 5px;
+    color: grey;
+    padding-left: 5px;
+}
+.unsubscribe-survey-text4 input[type="checkbox"] {
+    accent-color: orange;
+    width: 20px;
+    height: 20px;
+}
+
+.apply-points{
+    display:flex
+}
+@media only screen and (max-width:1500px ) {
+.edit-sub-heading {
+    font-family: "aktivExt";
+    font-size: 22px;
+}
+.unsubscribe-survey-text4 p{
+    display: flex;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.unsubscribe-survey-text4 input[type="checkbox"] {
+    accent-color: orange;
+    width: 14px;
+    height: 14px;
+}
+.unsubscribe-textarea{
+    width: 90%;
+        height: 60px;
+        font-size: 13px;}
+       button.edit-sub-favorite-button {
+            border-radius: 15px;
+            /* padding: 7px 77px 5px 76px; */
+            background-color: white;
+            font-size: 12px!important;}
+            button.edit-skiporder {
+                background: none;
+                border: none;
+                text-decoration: underline;
+    
+                font-size: 12px;
+                letter-spacing: 1px;
+            }
+           button.edit-sub-update-button {
+                background-color: orange;
+                border: none;
+                /* padding: 6px 68px 7px 65px; */
+                /* letter-spacing: 1px; */
+                font-size: 12px!important;}
+                .box-quick-subcription-skip-survey {
+                    position: relative;
+                    width: 21%;
+                    margin: 0 auto;
+                    height: auto;
+                    max-height: 90vh;
+                    margin-top: calc(105vh - 90vh - 30px)!important;}
+                    span.close-icon {
+                        content: 'x';
+                        margin-right: 86px;
+                        cursor: pointer;
+                        position: fixed;
+                        right: calc(16% - 30px);
+                        top: calc(104vh - 85vh - 33px)!important;}
+.unsubscribe-survey-text{
+    color: rgb(117, 117, 117);
+        text-align: left;
+        font-size: 11px;}
+        .unsubscribe-survey-text2{
+            text-align: left;
+                font-size: 12px;}
+                .unsubscribe-survey-text3{
+                    text-align: left;
+                        font-size: 11px;}
+
+
+}
+
+@media only screen and (max-width:610px ) {
+.part-quick {
+    /* position: relative; */
+    height: 237px;
+    overflow: hidden;
+    background-color: #8080802e;
+    margin-left: 0px;
+}
+.box-quick {
+    /* position: relative; */
+    width: 78%;
+    margin: 0 auto;
+    height: auto;
+    max-height: 150vh;
+}
+.apply-points{
+    display:block
+}
+.box-quick{
+
+    overflow-y: scroll;
+}
+.popup-box-quick {
+    /* position: fixed; */
+    background: #00000050;
+    width: 100%;
+    height: 170vh;
+    top: 0;
+    left: -10px;
+}
+.product-btn-subs-add-quick {
+   
+    padding-left: 33px;
+    padding-right: 33px;
+}
+div.arrow-cart-new{
+    display: inline-flex;
+    margin-left: -20px;
+    }
+span.close-icon {
+    content: 'x';
+    margin-right: 0px;
+    cursor: pointer;
+    float: right;
+     position:none!important;}
+}
+
+
+
+/* font page */
+
+.edit-sub-heading{
+    font-family: "aktivExt";
+}

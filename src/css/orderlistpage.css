@@ -1,0 +1,42 @@
+
+.table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+    max-height: 70vh;
+    width: 102%;
+}
+
+
+
+div.orderListPage{
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 130px;
+  min-height: 61vh;
+  
+  max-height: 95vh;
+}
+h1.orderListPage_heading{
+    color: orange;
+    font-weight: bold;
+}
+
+
+.wrapper1, .wrapper2 {
+  
+  width: 1300px;
+  max-width: 1300px;
+}
+
+  /* .wrapper1 {height: 100%; }
+  .wrapper2 {height: 100%; } */
+
+  .div1 {
+    width: 1300px;
+  }
+
+  .div2 {
+    width:1300px;
+    /* overflow: auto; */
+  }

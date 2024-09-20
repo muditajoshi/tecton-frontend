@@ -1,0 +1,10 @@
+div.orderListPage{
+    margin: 0 auto;
+    width:90%;
+    margin-top: 130px;
+    min-height: 100vh;
+}
+h1.orderListPage_heading{
+    color: orange;
+    font-weight: bold;
+}

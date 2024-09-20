@@ -1,0 +1,99 @@
+
+
+       div.Signinn{
+        background-color:orange ;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+       }
+
+       div.Signinn .height{
+        height: 100vh;
+       }
+
+       div.Signinn .card{
+        border:none;
+        padding: 20px;
+        background-color: #1c1e21;
+        color: #fff;
+        
+    height: 100vh;
+
+       }
+
+       div.Signinn .circle{
+
+        height: 20px;
+        width: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color:orange;
+        color: #fff;
+        font-size: 10px;
+        border-radius: 50%;
+       }
+
+       div.Signinn .form-input{
+
+        position: relative;
+        margin-bottom: 10px;
+        margin-top: 10px;
+       }
+
+       div.Signinn .form-input i{
+
+            position: absolute;
+            font-size: 18px;
+            top: 15px;
+            left: 10px;
+       }
+
+       div.Signinn .form-control{
+
+        height: 50px;
+        background-color: #1c1e21;
+        text-indent: 24px;
+        font-size: 15px;
+        color: white;
+
+
+       }
+
+       div.Signinn .form-control:focus{
+
+        background-color: #25272a;
+        box-shadow: none;
+        color: #fff;
+        border-color: orange;
+       }
+
+       div.Signinn .form-check-label{
+        margin-top: 2px;
+        font-size: 14px;
+       }
+
+       div.Signinn .signup{
+          height: 50px;
+          font-size: 14px;
+          width:100%
+        }
+
+        div.Signinn  .social{
+
+          height: 50px;
+          width: 50px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border: 1px solid #eee;
+          border-radius: 50%;
+          margin-right: 10px; 
+          cursor: pointer;
+        }
+
+        div.Signinn .social:hover{
+
+          background-color: orange;
+          border-color: orange;
+
+        }

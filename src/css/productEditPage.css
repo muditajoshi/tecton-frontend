@@ -1,0 +1,30 @@
+.productEditPage_backButton{
+    margin-left: 4%;
+    background-color: orange;
+    margin-top: 90px;
+    border:none;
+}
+.productEditPage_backButton:hover{
+    margin-left: 4%;
+    background-color: orange;
+    margin-top: 130px;
+    border:none;
+}
+div.productEditPage{
+    margin-top: 150px;
+}
+h1.productEditPage_heading{
+    color: orange;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.productEditPage_updateButton{
+    background-color: orange;
+    margin-bottom: 50px;
+    border:none;
+}
+.productEditPage_updateButton:hover{
+    background-color: orange;
+margin-bottom: 50px;    
+    border:none;
+}

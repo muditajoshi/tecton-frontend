@@ -1,0 +1,85 @@
+
+
+p.as-info{
+    
+    font-weight: 600;
+    padding-left: 50px;
+    font-size: 19px;
+    padding-top: 5px;
+   
+}
+
+h3.bcm{
+    padding-left: 45px;
+    color: orange;
+    font-size: 31px;
+    font-weight: bold;
+    padding-top: 35px;
+    padding-bottom: 14px;
+   
+
+}
+.acc1{
+    padding: 0px;
+    height: auto;
+    width: auto;
+   
+}
+.nav-am.col-sm-2{
+    background:black;
+    padding: 2px;
+   
+    height:100vh
+
+}
+
+/* div.col-3.pro{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: auto; 
+    padding-left: 51px;
+
+}
+ */
+
+.para-code{
+    padding-left: 4px;
+}
+
+.ooto.col-sm-2{
+    
+    padding: 1%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    height:100vh
+}
+
+.confs-for.col-sm-10{
+    padding-left: 45px;
+}
+
+.control-label.col-sm-2{
+    padding-left: 45px;
+    padding-top:15px;
+}
+
+input[type="link"]{
+    padding-left: 45px;
+}
+
+
+.square{
+    height: 130px;
+    width:130px;
+    background-color: rgb(240, 25, 25);
+}
+
+@media only screen and (max-width:610px ) {
+    .nav-am.col-sm-2 {
+       display: none!important;
+    }
+    .para-code {
+        padding-left: 22px;
+    }
+}  
