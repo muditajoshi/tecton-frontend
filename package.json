@@ -2,7 +2,7 @@
   "name": "tectonapp",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "https://tecton-backend.vercel.app",
   "dependencies": {
     "@coreui/react": "^4.3.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
